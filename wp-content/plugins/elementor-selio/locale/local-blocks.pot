@@ -1,0 +1,546 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Blocks for LOCAL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-02 11:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: widgets/ads-block.php:96
+msgid "- Advertisement -"
+msgstr ""
+
+#: widgets/ads-block.php:103
+msgid "Ad text"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:208 widgets/menu-mapbkg-search.php:330
+#: widgets/menu-parallax-search.php:215 widgets/menu-parallax-search.php:336
+#: widgets/menu-regionmap-search.php:187 widgets/menu-regionmap-search.php:347
+#: widgets/menu-white.php:174
+msgid "Add Listing"
+msgstr ""
+
+#: widgets/listings-locations-circles.php:126
+msgid "Add listing button"
+msgstr ""
+
+#: widgets/contact-form.php:203 widgets/contact-form.php:210
+msgid "Ads"
+msgstr ""
+
+#: widgets/ads-block.php:40
+msgid "Ads Block"
+msgstr ""
+
+#: widgets/contact-form.php:232
+msgid "Ads image"
+msgstr ""
+
+#: widgets/contact-form.php:223
+msgid "Ads link"
+msgstr ""
+
+#: widgets/blog-articles.php:97
+msgid "Articles & Tips"
+msgstr ""
+
+#: widgets/how-works-list.php:324 widgets/offers.php:377
+#: widgets/pricing-packages.php:389
+msgid "Back To Home"
+msgstr ""
+
+#: widgets/ads-block.php:121
+msgid "Background image"
+msgstr ""
+
+#: widgets/how-works-list.php:193
+msgid "Block elements"
+msgstr ""
+
+#: widgets/blog-articles.php:41
+msgid "Blog Articles"
+msgstr ""
+
+#: widgets/blog-grid.php:66
+msgid "Blog Grid"
+msgstr ""
+
+#: widgets/how-works-list.php:134 widgets/offers.php:138
+#: widgets/pricing-packages.php:150
+msgid "Button link"
+msgstr ""
+
+#: widgets/ads-block.php:112 widgets/how-works-list.php:125
+#: widgets/offers.php:129 widgets/pricing-packages.php:141
+#: widgets/search-button-parallax.php:104
+msgid "Button text"
+msgstr ""
+
+#: widgets/ads-block.php:114
+msgid "Buy Now"
+msgstr ""
+
+#: widgets/listings-categories-icons.php:97
+msgid "Categories"
+msgstr ""
+
+#: widgets/blog-grid.php:262 widgets/contact-form.php:282
+#: widgets/offers.php:225 widgets/pricing-packages.php:237
+msgid "Checked"
+msgstr ""
+
+#: widgets/listings-categories-hover.php:97 widgets/listings-categories.php:97
+msgid "Chose Category You Want"
+msgstr ""
+
+#: widgets/blog-grid.php:218
+msgid "Columns in grid"
+msgstr ""
+
+#: widgets/contact-form.php:66 widgets/contact-form.php:175
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/ads-block.php:87 widgets/blog-articles.php:88
+#: widgets/blog-grid.php:113 widgets/contact-form.php:113
+#: widgets/contact-form.php:138 widgets/footer-basic-white.php:89
+#: widgets/how-works-list.php:109 widgets/how-works.php:88
+#: widgets/listings-categories-hover.php:88
+#: widgets/listings-categories-icons.php:88 widgets/listings-categories.php:88
+#: widgets/listings-featured.php:88 widgets/listings-locations-circles.php:88
+#: widgets/listings-reviews.php:88 widgets/menu-mapbkg-search.php:88
+#: widgets/menu-parallax-search.php:88 widgets/menu-regionmap-search.php:88
+#: widgets/offers.php:113 widgets/parallax-title.php:87
+#: widgets/pricing-packages.php:125 widgets/search-button-parallax.php:88
+msgid "Content"
+msgstr ""
+
+#: widgets/blog-articles.php:106 widgets/listings-categories.php:106
+#: widgets/parallax-title.php:105
+msgid "Curabitur commodo orci lacus, in lacinia ligula porta vitae."
+msgstr ""
+
+#: widgets/menu-parallax-search.php:97
+msgid "Discover places that people love"
+msgstr ""
+
+#: widgets/listings-reviews.php:106
+msgid "Donecos a lacus ut nisl mattis sodales."
+msgstr ""
+
+#. Name of the plugin
+msgid "Elementor Blocks for LOCAL"
+msgstr ""
+
+#: elementor-local.php:54
+msgid ""
+"Elementor Blocks for LOCAL is not working because you are using an old "
+"version of Elementor."
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor elements for theme LOCAL"
+msgstr ""
+
+#: widgets/contact-form.php:500
+msgid "Email"
+msgstr ""
+
+#: widgets/contact-form.php:243
+msgid "Embed code"
+msgstr ""
+
+#: widgets/contact-form.php:213
+msgid "Enable ads"
+msgstr ""
+
+#: widgets/how-works-list.php:181 widgets/offers.php:185
+#: widgets/pricing-packages.php:197
+msgid "Enable side menu"
+msgstr ""
+
+#: widgets/ads-block.php:148 widgets/blog-articles.php:129
+#: widgets/blog-grid.php:174 widgets/contact-form.php:163
+#: widgets/how-works-list.php:168 widgets/how-works.php:129
+#: widgets/listings-categories-hover.php:129
+#: widgets/listings-categories-icons.php:129
+#: widgets/listings-categories.php:129 widgets/listings-featured.php:129
+#: widgets/listings-locations-circles.php:142 widgets/listings-reviews.php:129
+#: widgets/offers.php:172 widgets/pricing-packages.php:184
+msgid "Enable slim"
+msgstr ""
+
+#: widgets/contact-form.php:384
+msgid "Error sending message!"
+msgstr ""
+
+#: widgets/footer-basic-white.php:96
+msgid "Facebook Link"
+msgstr ""
+
+#: widgets/footer-basic-white.php:41
+msgid "Footer White Basic"
+msgstr ""
+
+#: widgets/contact-form.php:182
+msgid "Form button text"
+msgstr ""
+
+#: widgets/contact-form.php:192
+msgid "Form receiver email"
+msgstr ""
+
+#: widgets/how-works-list.php:127 widgets/offers.php:131
+#: widgets/pricing-packages.php:143
+msgid "Get Started Now"
+msgstr ""
+
+#: widgets/footer-basic-white.php:105
+msgid "Google plus Link"
+msgstr ""
+
+#: widgets/listings-locations-circles.php:130
+msgid "Hide"
+msgstr ""
+
+#: widgets/contact-form.php:214
+msgid "Hide ads"
+msgstr ""
+
+#: widgets/how-works-list.php:182 widgets/offers.php:186
+#: widgets/pricing-packages.php:198
+msgid "Hide side menu"
+msgstr ""
+
+#: widgets/ads-block.php:136 widgets/blog-articles.php:117
+#: widgets/blog-grid.php:162 widgets/contact-form.php:151
+#: widgets/how-works-list.php:156 widgets/how-works.php:117
+#: widgets/listings-categories-hover.php:117
+#: widgets/listings-categories-icons.php:117
+#: widgets/listings-categories.php:117 widgets/listings-featured.php:117
+#: widgets/listings-locations-circles.php:117 widgets/listings-reviews.php:117
+#: widgets/offers.php:160 widgets/pricing-packages.php:172
+msgid "Hide zebra"
+msgstr ""
+
+#: widgets/how-works-list.php:118 widgets/how-works.php:97
+msgid "How it Works"
+msgstr ""
+
+#: widgets/how-works.php:41
+msgid "How Works"
+msgstr ""
+
+#: widgets/how-works-list.php:62
+msgid "How Works (List)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://listing-themes.com/"
+msgstr ""
+
+#: widgets/listings-categories-icons.php:106
+#: widgets/listings-locations-circles.php:106
+msgid "Integer eu tincidunt gravida nulla."
+msgstr ""
+
+#: widgets/footer-basic-white.php:132
+msgid "Linkedin Link"
+msgstr ""
+
+#: widgets/listings-categories.php:41
+msgid "Listings Categories"
+msgstr ""
+
+#: widgets/listings-categories-hover.php:41
+msgid "Listings Categories Hover"
+msgstr ""
+
+#: widgets/listings-categories-icons.php:41
+msgid "Listings Categories Icons"
+msgstr ""
+
+#: widgets/listings-featured.php:41
+msgid "Listings Featured"
+msgstr ""
+
+#: widgets/listings-locations-circles.php:41
+msgid "Listings Locations Circles"
+msgstr ""
+
+#: widgets/listings-reviews.php:41
+msgid "Listings Reviews"
+msgstr ""
+
+#: widgets/listings-locations-circles.php:97
+msgid "Locations"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:207 widgets/menu-mapbkg-search.php:329
+#: widgets/menu-parallax-search.php:214 widgets/menu-parallax-search.php:335
+#: widgets/menu-regionmap-search.php:186 widgets/menu-regionmap-search.php:346
+#: widgets/menu-white.php:173
+msgid "Log In"
+msgstr ""
+
+#: widgets/blog-grid.php:151 widgets/contact-form.php:131
+#: widgets/how-works-list.php:145 widgets/listings-featured.php:106
+#: widgets/offers.php:149 widgets/pricing-packages.php:161
+msgid "Maecenas mauris arcu, congue ac lorem vel libero."
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:41
+msgid "Menu Mapbkg Search"
+msgstr ""
+
+#: widgets/menu-parallax-search.php:41
+msgid "Menu Parallax Search"
+msgstr ""
+
+#: widgets/menu-regionmap-search.php:41
+msgid "Menu Regionmap Search"
+msgstr ""
+
+#: widgets/menu-white.php:41
+msgid "Menu White"
+msgstr ""
+
+#: widgets/blog-grid.php:202
+msgid "News configuration"
+msgstr ""
+
+#: widgets/ads-block.php:149 widgets/blog-articles.php:130
+#: widgets/blog-grid.php:175 widgets/contact-form.php:164
+#: widgets/how-works-list.php:169 widgets/how-works.php:130
+#: widgets/listings-categories-hover.php:130
+#: widgets/listings-categories-icons.php:130
+#: widgets/listings-categories.php:130 widgets/listings-featured.php:130
+#: widgets/listings-locations-circles.php:143 widgets/listings-reviews.php:130
+#: widgets/offers.php:173 widgets/pricing-packages.php:185
+msgid "Non slim"
+msgstr ""
+
+#: widgets/offers.php:122
+msgid "Offers"
+msgstr ""
+
+#: widgets/offers.php:66
+msgid "Offers special"
+msgstr ""
+
+#: widgets/pricing-packages.php:134
+msgid "Our Pricing"
+msgstr ""
+
+#: widgets/blog-grid.php:238 widgets/contact-form.php:258
+#: widgets/offers.php:201 widgets/pricing-packages.php:213
+msgid "Package"
+msgstr ""
+
+#: widgets/blog-grid.php:458
+msgid "Page"
+msgstr ""
+
+#: widgets/menu-parallax-search.php:113 widgets/parallax-title.php:112
+#: widgets/search-button-parallax.php:113
+msgid "Parallax image"
+msgstr ""
+
+#: widgets/parallax-title.php:40
+msgid "Parallax title"
+msgstr ""
+
+#: widgets/blog-grid.php:209
+msgid "Per page (num)"
+msgstr ""
+
+#: widgets/ads-block.php:105
+msgid "Perfect <span class=\"mark-c\"> Directory </span> WordPres Theme"
+msgstr ""
+
+#: widgets/footer-basic-white.php:123
+msgid "Pinterest Link"
+msgstr ""
+
+#: widgets/placeholder-footer-dark.php:41
+msgid "Placeholder Footer Dark"
+msgstr ""
+
+#: widgets/contact-form.php:390
+msgid "Please populate all fields"
+msgstr ""
+
+#: widgets/pricing-packages.php:78
+msgid "Pricing packages"
+msgstr ""
+
+#: widgets/listings-reviews.php:97
+msgid "Recent Reviews"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandi Winter"
+msgstr ""
+
+#: widgets/menu-regionmap-search.php:257 widgets/menu-regionmap-search.php:417
+#: widgets/search-button-parallax.php:106
+msgid "Search"
+msgstr ""
+
+#: widgets/search-button-parallax.php:41
+msgid "Search Button Parallax"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:97
+msgid "Search for any item"
+msgstr ""
+
+#: widgets/contact-form.php:184
+msgid "Send Message"
+msgstr ""
+
+#: widgets/contact-form.php:369
+msgid "Sender website:"
+msgstr ""
+
+#: widgets/listings-locations-circles.php:129
+msgid "Show"
+msgstr ""
+
+#: widgets/ads-block.php:135 widgets/blog-articles.php:116
+#: widgets/blog-grid.php:161 widgets/contact-form.php:150
+#: widgets/how-works-list.php:155 widgets/how-works.php:116
+#: widgets/listings-categories-hover.php:116
+#: widgets/listings-categories-icons.php:116
+#: widgets/listings-categories.php:116 widgets/listings-featured.php:116
+#: widgets/listings-locations-circles.php:116 widgets/listings-reviews.php:116
+#: widgets/offers.php:159 widgets/pricing-packages.php:171
+msgid "Show zebra"
+msgstr ""
+
+#: widgets/how-works-list.php:178 widgets/offers.php:182
+#: widgets/pricing-packages.php:194
+msgid "Side menu"
+msgstr ""
+
+#: widgets/ads-block.php:145 widgets/blog-articles.php:126
+#: widgets/blog-grid.php:171 widgets/contact-form.php:160
+#: widgets/how-works-list.php:165 widgets/how-works.php:126
+#: widgets/listings-categories-hover.php:126
+#: widgets/listings-categories-icons.php:126
+#: widgets/listings-categories.php:126 widgets/listings-featured.php:126
+#: widgets/listings-locations-circles.php:139 widgets/listings-reviews.php:126
+#: widgets/offers.php:169 widgets/pricing-packages.php:181
+msgid "Slim section"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:104 widgets/menu-parallax-search.php:104
+#: widgets/menu-regionmap-search.php:106 widgets/parallax-title.php:103
+msgid "Slogan"
+msgstr ""
+
+#: widgets/search-button-parallax.php:97
+msgid "Start Exploring Today"
+msgstr ""
+
+#: widgets/blog-articles.php:104 widgets/blog-grid.php:149
+#: widgets/contact-form.php:129 widgets/how-works-list.php:143
+#: widgets/how-works.php:104 widgets/listings-categories-hover.php:104
+#: widgets/listings-categories-icons.php:104
+#: widgets/listings-categories.php:104 widgets/listings-featured.php:104
+#: widgets/listings-locations-circles.php:104 widgets/listings-reviews.php:104
+#: widgets/offers.php:147 widgets/pricing-packages.php:159
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/contact-form.php:380
+msgid "Thanks on your message!"
+msgstr ""
+
+#: widgets/parallax-title.php:96
+msgid "Tips & Articles"
+msgstr ""
+
+#: widgets/ads-block.php:94 widgets/blog-articles.php:95
+#: widgets/blog-grid.php:120 widgets/contact-form.php:120
+#: widgets/how-works-list.php:116 widgets/how-works.php:95
+#: widgets/listings-categories-hover.php:95
+#: widgets/listings-categories-icons.php:95 widgets/listings-categories.php:95
+#: widgets/listings-featured.php:95 widgets/listings-locations-circles.php:95
+#: widgets/listings-reviews.php:95 widgets/menu-mapbkg-search.php:95
+#: widgets/menu-parallax-search.php:95 widgets/offers.php:120
+#: widgets/parallax-title.php:94 widgets/pricing-packages.php:132
+#: widgets/search-button-parallax.php:95
+msgid "Title"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:211 widgets/menu-mapbkg-search.php:333
+#: widgets/menu-parallax-search.php:218 widgets/menu-parallax-search.php:339
+#: widgets/menu-regionmap-search.php:190 widgets/menu-regionmap-search.php:350
+#: widgets/menu-white.php:177
+msgid "Toggle navigation"
+msgstr ""
+
+#: widgets/listings-featured.php:97
+msgid "Top Picks"
+msgstr ""
+
+#: widgets/footer-basic-white.php:114
+msgid "Twitter Link"
+msgstr ""
+
+#: widgets/blog-grid.php:263 widgets/contact-form.php:283
+#: widgets/offers.php:226 widgets/pricing-packages.php:238
+msgid "Unchecked"
+msgstr ""
+
+#: elementor-local.php:55
+msgid "Update Elementor Now"
+msgstr ""
+
+#: widgets/menu-mapbkg-search.php:106
+msgid "We will help you to find new or used items of any type."
+msgstr ""
+
+#: widgets/menu-parallax-search.php:106
+msgid ""
+"We will help you to find the best places to spend time in any city in the "
+"world."
+msgstr ""
+
+#: widgets/contact-form.php:366
+msgid "Web contact message from:"
+msgstr ""
+
+#: widgets/contact-form.php:505
+msgid "Website"
+msgstr ""
+
+#: widgets/contact-form.php:510
+msgid "Your message"
+msgstr ""
+
+#: widgets/contact-form.php:495
+msgid "Your Name"
+msgstr ""
+
+#: widgets/ads-block.php:132 widgets/blog-articles.php:113
+#: widgets/blog-grid.php:158 widgets/contact-form.php:147
+#: widgets/how-works-list.php:152 widgets/how-works.php:113
+#: widgets/listings-categories-hover.php:113
+#: widgets/listings-categories-icons.php:113
+#: widgets/listings-categories.php:113 widgets/listings-featured.php:113
+#: widgets/listings-locations-circles.php:113 widgets/listings-reviews.php:113
+#: widgets/offers.php:156 widgets/pricing-packages.php:168
+msgid "Zebra background"
+msgstr ""

@@ -1,0 +1,1447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Selio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 12:58+0000\n"
+"PO-Revision-Date: 2019-06-07 12:58+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.2.1"
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:36
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:46 index.php:51 search.php:46 woocommerce/archive-product.php:51
+#: woocommerce/single-product.php:56 inc/helpers/install.php:1066
+msgid "404"
+msgstr ""
+
+#: functions.php:437
+msgid "404 Error"
+msgstr ""
+
+#: inc/helpers/install.php:1064
+msgid "About"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:346
+msgid "Add files..."
+msgstr ""
+
+#: functions.php:168
+msgid "Add widgets here to appear in blog footer."
+msgstr ""
+
+#: functions.php:156
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:180
+msgid "Add widgets here to appear in your sidebar on listing preview page."
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:194
+msgid "Addfiles"
+msgstr ""
+
+#: inc/helpers/customizer.php:201
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:40
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:42
+msgid "Address"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:478
+msgid "Address not found"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:156
+msgid "After saving, you can add files and images"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/agentsresults.php:57
+msgid "Agency Top Models"
+msgstr ""
+
+#. Name of the template
+msgid "Agent profile layout"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/agentsresults.php:19
+msgid "Agents not found"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:150
+#: SW_Win_Classified/views/frontend/resultspage.php:232
+#: SW_Win_Classified/views/frontend/resultspage.php:426
+#: SW_Win_Classified/views/frontend/resultspage.php:508
+#: SW_Win_Classified/views/shortcodes/swlisting.php:359
+#: SW_Win_Classified/views/shortcodes/swlisting.php:446
+#: SW_Win_Classified/views/shortcodes/swlistings.php:86
+#: SW_Win_Classified/views/shortcodes/swlistings.php:173
+msgid "Ago"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/CATEGORY.php:29
+#: SW_Win_Classified/views/searchform/filters/CATEGORY.php:15
+#: SW_Win_Classified/views/searchform/secondary/CATEGORY.php:29
+msgid "All Categories"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/LOCATION.php:15
+#: SW_Win_Classified/views/searchform/filters/LOCATION.php:16
+#: SW_Win_Classified/views/searchform/secondary/LOCATION.php:15
+msgid "All Locations"
+msgstr ""
+
+#: functions.php:919
+msgid "All Plugins"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/DROPDOWN.php:33
+#: SW_Win_Classified/views/searchform/DROPDOWN.php:43
+#: SW_Win_Classified/views/searchform/DROPDOWN.php:52
+#: SW_Win_Classified/views/searchform/DROPDOWN_MULTIPLE.php:36
+#: SW_Win_Classified/views/searchform/DROPDOWN_MULTIPLE.php:47
+#: SW_Win_Classified/views/searchform/DROPDOWN_MULTIPLE.php:56
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN.php:33
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN.php:44
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN.php:53
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN_MULTIPLE.php:36
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN_MULTIPLE.php:50
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN_MULTIPLE.php:59
+msgid "Any"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/INPUTBOX.php:51
+#: SW_Win_Classified/views/searchform/INPUTBOX.php:60
+#: SW_Win_Classified/views/searchform/INTEGER.php:64
+#: SW_Win_Classified/views/searchform/INTEGER.php:73
+#: SW_Win_Classified/views/searchform/secondary/INPUTBOX.php:52
+#: SW_Win_Classified/views/searchform/secondary/INPUTBOX.php:61
+#: SW_Win_Classified/views/searchform/secondary/INTEGER.php:83
+#: SW_Win_Classified/views/searchform/secondary/INTEGER.php:92
+msgid "Any type"
+msgstr ""
+
+#: functions.php:192
+msgid "Appears on Agent profile page."
+msgstr ""
+
+#: functions.php:204
+msgid "Appears on Results with sidebar."
+msgstr ""
+
+#: archive.php:48 functions.php:480 index.php:53 search.php:48
+#: woocommerce/archive-product.php:55 woocommerce/single-product.php:60
+msgid "Archive"
+msgstr ""
+
+#: archive.php:44 index.php:49 search.php:44 woocommerce/archive-product.php:49
+#: woocommerce/single-product.php:54
+msgid "Author"
+msgstr ""
+
+#: inc/helpers/customizer.php:222
+msgid "Author section enabled"
+msgstr ""
+
+#: functions.php:435
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+msgid "Average"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:112
+msgid "Awesome - 5 stars"
+msgstr ""
+
+#: 404.php:25
+msgid "Back to Homepage"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: archive.php:24 functions.php:484 index.php:24 search.php:24
+#: woocommerce/archive-product.php:24 woocommerce/single-product.php:29
+msgid "Blog"
+msgstr ""
+
+#: functions.php:166
+msgid "Blog footer"
+msgstr ""
+
+#: inc/helpers/install.php:1057 inc/helpers/install.php:1061
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/helpers/install.php:1063
+msgid "Blog Open"
+msgstr ""
+
+#. Name of the template
+msgid "Blog page"
+msgstr ""
+
+#: functions.php:154
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/helpers/install.php:1062
+msgid "Blog Standard"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:369
+#: SW_Win_Classified/views/frontend/listingpreview.php:371
+msgid "Book now"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/C_BOOKING.php:6
+#: SW_Win_Classified/views/searchform/secondary/C_BOOKING.php:6
+msgid "Booking"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/C_BOOKING.php:81
+#: SW_Win_Classified/views/searchform/secondary/C_BOOKING.php:81
+msgid "BOOKING PLUGIN MISSING"
+msgstr ""
+
+#: functions.php:214
+msgid "Bottom sidebar"
+msgstr ""
+
+#: functions.php:228
+msgid "Bottom Sidebar for Listing page"
+msgstr ""
+
+#: functions.php:216
+msgid "Bottom Sidebar Full Wide"
+msgstr ""
+
+#: functions.php:226
+msgid "Bottom sidebar Listing"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:26
+msgid "By price ASC"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:27
+msgid "By price DESC"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:23
+msgid "By publish date ASC"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:24
+msgid "By publish date DESC"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:56
+msgid "Calculate"
+msgstr ""
+
+#: comments.php:111 woocommerce/single-product-reviews.php:83
+msgid "Cancel Reply"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:199
+msgid "Cancelupload"
+msgstr ""
+
+#: functions.php:478
+msgid "Catagory"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:71
+#: SW_Win_Classified/views/searchform/CATEGORY.php:3
+#: SW_Win_Classified/views/searchform/filters/CATEGORY.php:3
+#: SW_Win_Classified/views/searchform/secondary/CATEGORY.php:3
+msgid "Category"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:230
+msgid "Choose a images"
+msgstr ""
+
+#: functions.php:721
+msgid "Click to install"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+#: template-parts/post/content-excerpt.php:25
+#: template-parts/post/content.php:25
+msgid "Comment"
+msgstr ""
+
+#: comments.php:57 template-parts/post/content-single.php:4
+msgid "Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/helpers/install.php:802
+msgid "Compare listings"
+msgstr ""
+
+#: inc/helpers/install.php:1065
+msgid "Contact"
+msgstr ""
+
+#: inc/helpers/customizer.php:167
+msgid "Contact Details"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:2
+msgid "Contact with Us"
+msgstr ""
+
+#. 1: number of continue
+#: template-parts/post/content.php:110
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:145
+msgid "Create Acoount"
+msgstr ""
+
+#: functions.php:1367
+msgid "Create new account"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:82
+msgid "Create?"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:324
+#: SW_Win_Classified/views/searchform/C_BOOKING.php:15
+#: SW_Win_Classified/views/widgets/contactform.php:88
+#: SW_Win_Classified/views/searchform/secondary/C_BOOKING.php:15
+msgid "Date from"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:55
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:57
+msgid "Date modified"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:325
+#: SW_Win_Classified/views/searchform/C_BOOKING.php:26
+#: SW_Win_Classified/views/widgets/contactform.php:98
+#: SW_Win_Classified/views/searchform/secondary/C_BOOKING.php:26
+msgid "Date to"
+msgstr ""
+
+#: archive.php:38 index.php:43 search.php:38 woocommerce/archive-product.php:43
+#: woocommerce/single-product.php:48
+#: SW_Win_Classified/views/frontend/listingpreview.php:326
+msgid "Day"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:285
+msgid "Days expire"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:203
+msgid "Delete"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:351
+msgid "Delete selected"
+msgstr ""
+
+#: functions.php:1337 SW_Win_Classified/views/dashboard/register.php:58
+msgid "Demo login details for Admin"
+msgstr ""
+
+#: functions.php:1340 SW_Win_Classified/views/dashboard/register.php:61
+msgid "Demo login details for Agent"
+msgstr ""
+
+#: functions.php:874
+msgid "Description"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:614
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:625
+#: SW_Win_Classified/views/frontend/reviews.php:334
+#: SW_Win_Classified/views/frontend/reviews.php:346
+msgid "Disabled in demo"
+msgstr ""
+
+#: functions.php:924
+msgid "Do you want to extract included plugins?"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:208
+msgid "Documents files"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:40
+msgid "Down payment"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:493
+msgid "Edit image"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swprimarysearch.php:80
+#: SW_Win_Classified/views/widgets/primarysearch.php:33
+msgid "Edit search form"
+msgstr ""
+
+#: inc/elementor/ElementorTemplateImporter.php:43
+msgid "Elementor is not activated."
+msgstr ""
+
+#: comments.php:96 woocommerce/single-product-reviews.php:72
+#: inc/helpers/customizer.php:178
+#: SW_Win_Classified/views/dashboard/register.php:116
+#: SW_Win_Classified/views/shortcodes/swagent.php:14
+msgid "Email"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/contactform.php:6
+msgid "Enquiry form"
+msgstr ""
+
+#: functions.php:1411
+msgid "Enter"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/WHERE_SEARCH.php:7
+#: SW_Win_Classified/views/searchform/secondary/WHERE_SEARCH.php:7
+msgid "Enter Address, City or State"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/INPUTBOX.php:40
+#: SW_Win_Classified/views/searchform/filters/INPUTBOX.php:40
+#: SW_Win_Classified/views/searchform/secondary/INPUTBOX.php:40
+msgid "Enter Your"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:587
+#: SW_Win_Classified/views/shortcodes/swlisting.php:462
+msgid "Facebook comments"
+msgstr ""
+
+#: inc/helpers/customizer.php:79
+msgid "Facebook link"
+msgstr ""
+
+#: inc/helpers/customizer.php:87
+msgid "Facebook link hide"
+msgstr ""
+
+#: inc/helpers/install.php:893 inc/helpers/install.php:895
+#: inc/helpers/install.php:932
+msgid "Features"
+msgstr ""
+
+#: inc/helpers/install.php:900 inc/helpers/install.php:902
+msgid "Features Example"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/contactform.php:80
+msgid "For booking, please"
+msgstr ""
+
+#: functions.php:1362 SW_Win_Classified/views/dashboard/register.php:83
+#: SW_Win_Classified/views/dashboard/register.php:83
+msgid "Forgot Password?"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/INPUTBOX.php:3
+#: SW_Win_Classified/views/searchform/filters/INTEGER.php:4
+#: SW_Win_Classified/views/searchform/filters/INTEGER.php:11
+msgid "FROM"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/C_PRICE_RANGE.php:56
+msgid "from"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/DATE_RANGE.php:7
+#: SW_Win_Classified/views/searchform/DATE_RANGE.php:8
+#: SW_Win_Classified/views/searchform/filters/DATE_RANGE.php:3
+#: SW_Win_Classified/views/searchform/filters/DATE_RANGE.php:4
+#: SW_Win_Classified/views/searchform/secondary/DATE_RANGE.php:7
+#: SW_Win_Classified/views/searchform/secondary/DATE_RANGE.php:8
+msgid "Fromdate"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:6
+#: SW_Win_Classified/views/widgets/contactform.php:15
+#: SW_Win_Classified/views/widgets/contactform.php:183
+msgid "Full name"
+msgstr ""
+
+#. Name of the template
+msgid "Full width page"
+msgstr ""
+
+#. Name of the template
+msgid "Full width page clear page"
+msgstr ""
+
+#: template-parts/post/content-single.php:149
+msgid "Gallery"
+msgstr ""
+
+#: inc/helpers/customizer.php:213
+msgid "Gallery in separate box enabled"
+msgstr ""
+
+#: inc/helpers/install.php:852
+msgid "Geo SVG Map"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/agentsresults.php:43
+msgid "goes here"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+msgid "Good"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: functions.php:246
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helpers/customizer.php:130
+msgid "Google+ link"
+msgstr ""
+
+#: inc/helpers/customizer.php:138
+msgid "Google+ link hide"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:48
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:50
+msgid "Gps"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:22
+#, php-format
+msgctxt "group of people"
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/install.php:615
+msgid "Half Map"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:143
+msgid "Have an account?"
+msgstr ""
+
+#: inc/helpers/customizer.php:247
+msgid "header sticky enable"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:35
+#: SW_Win_Classified/views/frontend/resultspage.php:309
+msgid "Higher price"
+msgstr ""
+
+#: functions.php:375 functions.php:446 inc/helpers/install.php:840
+#: inc/helpers/install.php:842 inc/helpers/install.php:869
+msgid "Home"
+msgstr ""
+
+#: functions.php:378
+msgid "Home page"
+msgstr ""
+
+#: archive.php:26 index.php:31 search.php:26 woocommerce/archive-product.php:31
+#: woocommerce/single-product.php:36
+msgid "Homepage"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:327
+msgid "Hour"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:32
+msgid "House price"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.themeforest.net"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://codecanyon.net/user/sanljiljan"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:264
+msgid "I Agree To The Terms & Conditions"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:139
+msgid "I agree with terms"
+msgstr ""
+
+#: inc/helpers/customizer.php:73
+msgid ""
+"If not defined, plugin shared current page. Please share full link, example: "
+"https://facebook.com"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:7
+msgid "If you are already registered, please first login here"
+msgstr ""
+
+#: inc/helpers/install.php:854
+msgid "Image Header with Description"
+msgstr ""
+
+#: inc/helpers/install.php:850
+msgid "Image Menu with Center Search"
+msgstr ""
+
+#: inc/helpers/customizer.php:52
+msgid "Images"
+msgstr ""
+
+#: inc/helpers/customizer.php:147
+msgid "Instagram link"
+msgstr ""
+
+#: inc/helpers/customizer.php:155
+msgid "Instagram link hide"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:36
+msgid "Interest"
+msgstr ""
+
+#: template-parts/post/content-none.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:118
+msgid "Kinda bad - 2 stars"
+msgstr ""
+
+#: inc/helpers/customizer.php:208
+msgid "Layout"
+msgstr ""
+
+#: comments.php:108
+msgid "Leave A Reply"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#. %s is product title
+#: comments.php:110 woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/helpers/customizer.php:239
+msgid "Ligin button enabled"
+msgstr ""
+
+#: inc/helpers/customizer.php:113
+msgid "Linkedin link"
+msgstr ""
+
+#: inc/helpers/customizer.php:121
+msgid "Linkedin link hide"
+msgstr ""
+
+#: inc/helpers/install.php:984 inc/helpers/install.php:986
+msgid "List Layout with Map"
+msgstr ""
+
+#: inc/helpers/install.php:987
+msgid "List Layout with Sidebar"
+msgstr ""
+
+#: inc/helpers/install.php:977 inc/helpers/install.php:979
+#: inc/helpers/install.php:995
+msgid "Listing"
+msgstr ""
+
+#. Name of the template
+msgid "Listing preview page"
+msgstr ""
+
+#: functions.php:178
+msgid "Listing Preview Sidebar"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swmaplistings.php:225
+#: SW_Win_Classified/views/widgets/maplistings.php:227
+msgid "Loading..."
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:82
+#: SW_Win_Classified/views/frontend/listingpreview.php:85
+#: SW_Win_Classified/views/frontend/listingpreview.php:273
+#: SW_Win_Classified/views/searchform/LOCATION.php:3
+#: SW_Win_Classified/views/shortcodes/swlisting.php:67
+#: SW_Win_Classified/views/shortcodes/swlisting.php:230
+#: SW_Win_Classified/views/searchform/filters/LOCATION.php:3
+#: SW_Win_Classified/views/searchform/secondary/LOCATION.php:3
+msgid "Location"
+msgstr ""
+
+#: functions.php:1364
+msgid "Log In"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:41
+msgid "Log in"
+msgstr ""
+
+#. logged link to post comments
+#: comments.php:128 woocommerce/single-product-reviews.php:96
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/contactform.php:80
+msgid "login"
+msgstr ""
+
+#: inc/helpers/install.php:806
+msgid "Login page"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:55
+msgid "Login successfuly"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:443
+msgid "Login to review"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:36
+#: SW_Win_Classified/views/frontend/resultspage.php:310
+msgid "Lower price"
+msgstr ""
+
+#: inc/helpers/install.php:851
+msgid "Map with Center Search"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/DROPDOWN.php:6
+#: SW_Win_Classified/views/searchform/DROPDOWN_MULTIPLE.php:6
+#: SW_Win_Classified/views/searchform/INPUTBOX.php:4
+#: SW_Win_Classified/views/searchform/INTEGER.php:5
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN.php:6
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN_MULTIPLE.php:6
+#: SW_Win_Classified/views/searchform/secondary/INPUTBOX.php:4
+#: SW_Win_Classified/views/searchform/secondary/INTEGER.php:5
+msgid "Max"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:116
+msgid "Meh - 3 stars"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:25
+#: SW_Win_Classified/views/widgets/contactform.php:26
+#: SW_Win_Classified/views/widgets/contactform.php:195
+msgid "Message"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:3
+#: SW_Win_Classified/views/widgets/contactform.php:11
+#: SW_Win_Classified/views/widgets/contactform.php:54
+msgid "Message sent successfuly"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/DROPDOWN.php:5
+#: SW_Win_Classified/views/searchform/DROPDOWN_MULTIPLE.php:5
+#: SW_Win_Classified/views/searchform/INPUTBOX.php:3
+#: SW_Win_Classified/views/searchform/INTEGER.php:4
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN.php:5
+#: SW_Win_Classified/views/searchform/secondary/DROPDOWN_MULTIPLE.php:5
+#: SW_Win_Classified/views/searchform/secondary/INPUTBOX.php:3
+#: SW_Win_Classified/views/searchform/secondary/INTEGER.php:4
+msgid "Min"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/agentsresults.php:50
+msgid "Models"
+msgstr ""
+
+#: archive.php:40 index.php:45 search.php:40 woocommerce/archive-product.php:45
+#: woocommerce/single-product.php:50
+#: SW_Win_Classified/views/frontend/listingpreview.php:329
+msgid "Month"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:47
+msgid "Monthly Repayments"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/primarysearch.php:51
+msgid "More Option"
+msgstr ""
+
+#: inc/helpers/install.php:855
+msgid "More Search Features"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:34
+#: SW_Win_Classified/views/frontend/resultspage.php:308
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:25
+msgid "Most View"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swagent.php:13
+msgid "Name"
+msgstr ""
+
+#: comments.php:74 woocommerce/single-product-reviews.php:52
+msgid "Next"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:99
+msgid "No reviews available"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/latestagents.php:5
+#: SW_Win_Classified/views/widgets/latestlistings.php:5
+#: SW_Win_Classified/views/widgets/listingagency.php:5
+#: SW_Win_Classified/views/widgets/listingagent.php:7
+msgid "Not available"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Not that bad"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:33
+#: SW_Win_Classified/views/frontend/resultspage.php:307
+msgid "Oldest"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:21
+msgid ""
+"On quick submission you should populate fields in default website langauge"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: template-parts/post/content-none.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:32
+msgid "Open dashboard"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:443
+msgid "Open login page"
+msgstr ""
+
+#: header.php:138
+msgid "or"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:230
+msgid "or drag it here"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:284
+msgid "Package name"
+msgstr ""
+
+#: archive.php:28 index.php:33 search.php:28 woocommerce/archive-product.php:33
+#: woocommerce/single-product.php:38
+#: template-parts/post/content-excerpt.php:116
+#: template-parts/post/content-single.php:178
+#: template-parts/post/content.php:136
+msgid "Page"
+msgstr ""
+
+#. page number
+#: functions.php:1097
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/helpers/install.php:1050 inc/helpers/install.php:1052
+#: inc/helpers/install.php:1076
+msgid "Pages"
+msgstr ""
+
+#: template-parts/post/content-single.php:166
+#: template-parts/post/content.php:115
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:540 functions.php:1339 functions.php:1342 functions.php:1350
+#: functions.php:1410 functions.php:1410
+#: SW_Win_Classified/views/dashboard/register.php:60
+#: SW_Win_Classified/views/dashboard/register.php:63
+#: SW_Win_Classified/views/dashboard/register.php:70
+#: SW_Win_Classified/views/dashboard/register.php:122
+msgid "Password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Perfect"
+msgstr ""
+
+#: inc/helpers/customizer.php:190
+msgid "Phone"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:16
+#: SW_Win_Classified/views/widgets/contactform.php:21
+#: SW_Win_Classified/views/widgets/contactform.php:189
+msgid "Phone number"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:332
+msgid "Photo and other files"
+msgstr ""
+
+#: comments.php:34
+msgid "Pingbacks And Trackbacks"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:131
+msgid "Please fill empty fields"
+msgstr ""
+
+#: functions.php:873
+msgid "Plugin"
+msgstr ""
+
+#: functions.php:785
+msgid "Plugins extract successfuly, click here to start plugin installation."
+msgstr ""
+
+#: functions.php:743
+msgid ""
+"Plugins included in theme already extracted, check plugins page and activate "
+"if needed."
+msgstr ""
+
+#: comments.php:117
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:114 woocommerce/single-product-reviews.php:87
+msgid "Post Your Reply"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:114
+msgid "Pretty good - 4 stars"
+msgstr ""
+
+#: comments.php:73 woocommerce/single-product-reviews.php:51
+msgid "Previous"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:286
+#: SW_Win_Classified/views/searchform/C_PRICE_RANGE.php:68
+msgid "Price"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/C_PRICE_RANGE.php:55
+msgid "Price Range"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/C_PRICE_RANGE.php:44
+msgid "PRICE RANGE can't load missng field #36"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:363
+msgid "Prices in currency: "
+msgstr ""
+
+#: woocommerce/single-product.php:27
+msgid "Product"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:278
+msgid "Purchase higher listing rank and sell faster"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/addlisting.php:2
+msgid "Quick add Listing"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:274
+msgid "Rank package"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Rate&hellip;"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:125
+msgid "Re-enter password"
+msgstr ""
+
+#: template-parts/post/content-excerpt.php:98
+#: template-parts/post/content.php:125 template-parts/post/content.php:125
+msgid "Read more"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Real Estate theme with many innovative features, easy to use based on "
+"Bootstrap."
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:310
+msgid "Recaptcha"
+msgstr ""
+
+#: functions.php:720
+msgid "Recommended plugins for full theme functionality not installed:"
+msgstr ""
+
+#: header.php:140 SW_Win_Classified/views/dashboard/register.php:96
+msgid "Register"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:99
+msgid "Register successfuly, you can login now"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:32
+#: SW_Win_Classified/views/frontend/resultspage.php:306
+msgid "Relevant"
+msgstr ""
+
+#: functions.php:1358 SW_Win_Classified/views/dashboard/register.php:78
+msgid "Remember me"
+msgstr ""
+
+#: inc/helpers/admin-elements.php:67
+msgid "Remove this image"
+msgstr ""
+
+#: comments.php:65 functions.php:678
+#: SW_Win_Classified/views/frontend/reviews.php:91
+#: SW_Win_Classified/views/frontend/reviews.php:91
+msgid "Reply"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:62
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:64
+msgid "Repository"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:317
+msgid "Reservation rates"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:7
+msgid "Results"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:73
+#: SW_Win_Classified/views/frontend/resultspage.php:348
+#: SW_Win_Classified/views/frontend/userprofilelistings.php:47
+msgid "Results not found"
+msgstr ""
+
+#. Name of the template
+msgid "Results page with half side map template"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: functions.php:190
+msgid "Right sidebar Agent profile"
+msgstr ""
+
+#. Author of the theme
+msgid "Sandi Winter"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:321
+msgid "Save"
+msgstr ""
+
+#: comments.php:147
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:145
+msgid "Saved successfuly"
+msgstr ""
+
+#: archive.php:34 functions.php:482 index.php:39 search.php:34
+#: woocommerce/archive-product.php:39 woocommerce/single-product.php:44
+#: SW_Win_Classified/views/shortcodes/swprimarysearch.php:50
+#: SW_Win_Classified/views/shortcodes/swprimarysearch.php:75
+#: SW_Win_Classified/views/shortcodes/swsecondarysearch.php:30
+#: SW_Win_Classified/views/widgets/primarysearch.php:21
+#: SW_Win_Classified/views/widgets/primarysearch.php:29
+#: SW_Win_Classified/views/widgets/secondarysearch.php:21
+msgid "Search"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search here ..."
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/CATEGORY.php:21
+#: SW_Win_Classified/views/searchform/LOCATION.php:7
+#: SW_Win_Classified/views/searchform/filters/CATEGORY.php:7
+#: SW_Win_Classified/views/searchform/filters/LOCATION.php:7
+#: SW_Win_Classified/views/searchform/secondary/CATEGORY.php:21
+#: SW_Win_Classified/views/searchform/secondary/LOCATION.php:7
+msgid "Search keyword"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/BREAKLINE.php:18
+msgid "Search Property"
+msgstr ""
+
+#: functions.php:420
+msgid "Search results for"
+msgstr ""
+
+#: inc/elementor/ElementorTemplateImporter.php:119
+msgid "Seems the $_FILE global already has a file and I do not wanna conflict."
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:103
+#: SW_Win_Classified/views/dashboard/register.php:108
+msgid "Select type"
+msgstr ""
+
+#. Name of the theme
+msgid "Selio"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:33
+#: SW_Win_Classified/views/widgets/contactform.php:41
+#: SW_Win_Classified/views/widgets/contactform.php:203
+msgid "Send"
+msgstr ""
+
+#: inc/helpers/admin-elements.php:63
+msgid "Set custom image"
+msgstr ""
+
+#: inc/helpers/customizer.php:72
+msgid "Share Plugin "
+msgstr ""
+
+#: woocommerce/archive-product.php:53 woocommerce/single-product.php:58
+msgid "Shop"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swprimarysearch.php:46
+msgid "Show More Features"
+msgstr ""
+
+#: functions.php:202
+msgid "Sidebar for Results"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:85
+msgid "Sign In"
+msgstr ""
+
+#: header.php:136
+msgid "Sign in"
+msgstr ""
+
+#: functions.php:1332 SW_Win_Classified/views/dashboard/register.php:52
+msgid "Sign In to your Account"
+msgstr ""
+
+#: functions.php:1393 SW_Win_Classified/views/dashboard/register.php:89
+#: SW_Win_Classified/views/dashboard/register.php:150
+msgid "Sign in with facebook"
+msgstr ""
+
+#: header.php:149
+msgid "Sign out"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:44
+msgid "Sign Up"
+msgstr ""
+
+#: inc/helpers/install.php:853
+msgid "Slider Header"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:129
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:131
+msgid "Slug"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/resultspage.php:42
+#: SW_Win_Classified/views/frontend/resultspage.php:316
+msgid "Sort by"
+msgstr ""
+
+#: functions.php:892
+msgid "Start extraction (After click wait a bit...)"
+msgstr ""
+
+#: template-parts/post/content-excerpt.php:88
+#: template-parts/post/content-single.php:66 template-parts/post/content.php:88
+msgid "Sticky"
+msgstr ""
+
+#: SW_Win_Classified/views/shortcodes/swcontact.php:20
+#: SW_Win_Classified/views/widgets/contactform.php:192
+msgid "Subject"
+msgstr ""
+
+#: header.php:159
+msgid "Submit Listing"
+msgstr ""
+
+#: inc/helpers/customizer.php:231
+msgid "Submit listing enable"
+msgstr ""
+
+#: functions.php:476
+msgid "Tag: "
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:128
+msgid "Thanks on review"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:16
+msgid "Thanks on submission and check your email for all details"
+msgstr ""
+
+#: 404.php:24
+msgid "The page you’re looking for can’t be found."
+msgstr ""
+
+#: functions.php:742 functions.php:777 functions.php:784 functions.php:791
+#: functions.php:905 functions.php:905
+msgid "Theme plugins"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: functions.php:778
+msgid "There was an error unzipping the file, please install plugins manually."
+msgstr ""
+
+#: functions.php:1409
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below"
+msgstr ""
+
+#: inc/elementor/ElementorTemplateImporter.php:167
+msgid "This template has already been loaded."
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/INPUTBOX.php:4
+#: SW_Win_Classified/views/searchform/filters/INTEGER.php:5
+#: SW_Win_Classified/views/searchform/filters/INTEGER.php:12
+msgid "TO"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/filters/C_PRICE_RANGE.php:58
+msgid "to"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/DATE_RANGE.php:14
+#: SW_Win_Classified/views/searchform/DATE_RANGE.php:15
+#: SW_Win_Classified/views/searchform/filters/DATE_RANGE.php:8
+#: SW_Win_Classified/views/searchform/filters/DATE_RANGE.php:9
+#: SW_Win_Classified/views/searchform/secondary/DATE_RANGE.php:14
+#: SW_Win_Classified/views/searchform/secondary/DATE_RANGE.php:15
+msgid "Todate"
+msgstr ""
+
+#: functions.php:114
+msgid "Top Menu"
+msgstr ""
+
+#: inc/helpers/customizer.php:96
+msgid "Twitter link"
+msgstr ""
+
+#: inc/helpers/customizer.php:104
+msgid "Twitter link hide"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:604
+#: SW_Win_Classified/views/frontend/reviews.php:325
+msgid "Unsuccessful, possible permission problems or file not exists"
+msgstr ""
+
+#: inc/helpers/customizer.php:256
+msgid "Upload your custom header image"
+msgstr ""
+
+#: inc/helpers/customizer.php:61
+msgid "Upload your logo"
+msgstr ""
+
+#: functions.php:1338 functions.php:1341
+#: SW_Win_Classified/views/dashboard/register.php:59
+#: SW_Win_Classified/views/dashboard/register.php:62
+#: SW_Win_Classified/views/dashboard/register.php:119
+msgid "Username"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:120
+msgid "Very bad - 1 star"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Very poor"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:489
+#: SW_Win_Classified/views/frontend/listingpreview.php:575
+#: SW_Win_Classified/views/frontend/resultspage.php:236
+#: SW_Win_Classified/views/frontend/resultspage.php:512
+#: SW_Win_Classified/views/shortcodes/swlisting.php:363
+#: SW_Win_Classified/views/shortcodes/swlisting.php:450
+msgid "View Details"
+msgstr ""
+
+#: comments.php:100 SW_Win_Classified/views/shortcodes/swagent.php:17
+msgid "Website"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:328
+msgid "Week"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:51
+msgid "Weekly Repayments"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/WHAT_SEARCH.php:3
+#: SW_Win_Classified/views/searchform/WHAT_SEARCH.php:7
+#: SW_Win_Classified/views/searchform/filters/WHAT_SEARCH.php:3
+#: SW_Win_Classified/views/searchform/filters/WHAT_SEARCH.php:7
+#: SW_Win_Classified/views/searchform/secondary/WHAT_SEARCH.php:3
+#: SW_Win_Classified/views/searchform/secondary/WHAT_SEARCH.php:7
+msgid "What?"
+msgstr ""
+
+#: SW_Win_Classified/views/searchform/WHERE_SEARCH.php:3
+#: SW_Win_Classified/views/searchform/secondary/WHERE_SEARCH.php:3
+msgid "Where?"
+msgstr ""
+
+#: inc/helpers/install.php:847 inc/helpers/install.php:849
+msgid "White Menu with Center Search"
+msgstr ""
+
+#: template-parts/post/content-single.php:86
+msgid "Write A Comment"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:55
+msgid "Wrong credentials"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/listingpreview.php:688
+#: SW_Win_Classified/views/shortcodes/swlisting.php:558
+msgid "Wrong template file, please use listing preview"
+msgstr ""
+
+#: archive.php:42 index.php:47 search.php:42 woocommerce/archive-product.php:47
+#: woocommerce/single-product.php:52
+msgid "Year"
+msgstr ""
+
+#: SW_Win_Classified/views/widgets/mortgage.php:44
+msgid "Years"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/register.php:32
+msgid "You are already logged in"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:105
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#. link to post comments
+#: comments.php:123 woocommerce/single-product-reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:12
+msgid ""
+"Your account don't have permission to add listing, you can logout and add "
+"listing again"
+msgstr ""
+
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:32
+#: SW_Win_Classified/views/dashboard/quicksubmission.php:34
+#: SW_Win_Classified/views/shortcodes/swcontact.php:10
+#: SW_Win_Classified/views/widgets/contactform.php:18
+#: SW_Win_Classified/views/widgets/contactform.php:186
+msgid "Your email"
+msgstr ""
+
+#: SW_Win_Classified/views/frontend/reviews.php:148
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:92 functions.php:1347 woocommerce/single-product-reviews.php:68
+#: SW_Win_Classified/views/dashboard/register.php:67
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "Your rating"
+msgstr ""

@@ -1,0 +1,562 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Blocks for SELIO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-14 11:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: widgets/about-features.php:139
+msgid "About Features"
+msgstr ""
+
+#: widgets/popular-listings.php:201
+msgid "Additional query parameters"
+msgstr ""
+
+#: widgets/agents.php:91
+msgid "Agents"
+msgstr ""
+
+#: widgets/agents.php:407
+msgid "Agents elementor"
+msgstr ""
+
+#: widgets/single-apartment.php:327
+msgid "Apartment elementor"
+msgstr ""
+
+#: widgets/map-svg-area.php:116 widgets/map-svg.php:115
+msgid "Auto Search"
+msgstr ""
+
+#: widgets/header-search.php:221 widgets/header-slider-listing.php:268
+#: widgets/map-full-width.php:379 widgets/map-svg-area.php:224
+#: widgets/map-svg.php:223 widgets/navigation-over-image.php:241
+#: widgets/popular-cities.php:225 widgets/popular-listings.php:268
+#: widgets/post-slider.php:243 widgets/section-subscriptions.php:247
+#: widgets/single-apartment.php:237
+msgid ""
+"Avaible only with Visual Listings - Agency Directory and Management Plugin "
+msgstr ""
+
+#: widgets/map-svg-area.php:819 widgets/map-svg.php:800
+msgid "back"
+msgstr ""
+
+#: widgets/agents.php:193
+msgid "Block element"
+msgstr ""
+
+#: widgets/about-features.php:190 widgets/blog-grid.php:106
+#: widgets/carousel-purposes.php:193 widgets/categories-listings.php:109
+#: widgets/categories-presentation.php:125 widgets/clients-say.php:130
+#: widgets/contact-featured.php:194 widgets/contact-section.php:123
+#: widgets/header-search.php:109 widgets/header-slider-listing.php:124
+#: widgets/header-static.php:109 widgets/header-title.php:109
+#: widgets/latest-posts.php:109 widgets/map-full-width.php:180
+#: widgets/map-svg-area.php:109 widgets/map-svg.php:108
+#: widgets/navigation-over-image.php:124 widgets/partners-agencies.php:147
+#: widgets/placeholder-footer.php:107 widgets/popular-cities.php:108
+#: widgets/popular-listings.php:111 widgets/post-slider.php:122
+#: widgets/pricing-packages.php:139 widgets/result-listings.php:105
+#: widgets/section-subscriptions.php:127 widgets/services-you-need.php:196
+#: widgets/single-apartment.php:105 widgets/slogan.php:114
+#: widgets/top-bar.php:124 widgets/top-navigation-white.php:112
+#: widgets/video-feature.php:110 widgets/wide-search.php:103
+msgid "Block elements"
+msgstr ""
+
+#: widgets/blog-grid.php:55
+msgid "Blog Grid"
+msgstr ""
+
+#: widgets/blog-grid.php:279
+msgid "Blog grid elementor"
+msgstr ""
+
+#: widgets/carousel-purposes.php:142
+msgid "Carousel Purposes"
+msgstr ""
+
+#: widgets/categories-listings.php:58
+msgid "Categories Listings"
+msgstr ""
+
+#: widgets/categories-presentation.php:74
+msgid "Categories Presentation"
+msgstr ""
+
+#: widgets/categories-presentation.php:289
+msgid "Category elementor"
+msgstr ""
+
+#: widgets/popular-cities.php:303
+msgid "Cities elementor"
+msgstr ""
+
+#: widgets/clients-say.php:79
+msgid "Clients Say"
+msgstr ""
+
+#: widgets/clients-say.php:305
+msgid "Clients say elementor"
+msgstr ""
+
+#: widgets/contact-featured.php:143
+msgid "Contact Featured"
+msgstr ""
+
+#: widgets/contact-section.php:72
+msgid "Contact Section"
+msgstr ""
+
+#: widgets/single-apartment.php:133
+msgid "Custom lising ID"
+msgstr ""
+
+#: widgets/popular-listings.php:234
+msgid "Custom Query"
+msgstr ""
+
+#: widgets/agents.php:169
+msgid "Dynamic agents"
+msgstr ""
+
+#: elementor-selio.php:58
+msgid ""
+"Elementor Blocks for LOCAL is not working because you are using an old "
+"version of Elementor."
+msgstr ""
+
+#. Name of the plugin
+msgid "Elementor Blocks for SELIO"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor elements for theme SELIO"
+msgstr ""
+
+#: widgets/contact-section.php:290
+msgid "Error sending message!"
+msgstr ""
+
+#: widgets/agents.php:172 widgets/map-svg-area.php:119 widgets/map-svg.php:118
+msgid "False"
+msgstr ""
+
+#: widgets/popular-listings.php:211
+msgid "Featured"
+msgstr ""
+
+#: widgets/popular-listings.php:236
+msgid ""
+"Filter by query string, for example (like in search url string) "
+"\"search_order=idlisting%20DESC&offset=0&search_4=Rent\""
+msgstr ""
+
+#: widgets/agents.php:249 widgets/header-title.php:183
+#: widgets/partners-agencies.php:206 widgets/popular-cities.php:164
+#: widgets/pricing-packages.php:198 widgets/video-feature.php:184
+msgid "Flexbox"
+msgstr ""
+
+#: widgets/placeholder-footer.php:285
+msgid "Footer elementor"
+msgstr ""
+
+#: widgets/header-slider-listing.php:344 widgets/header-static.php:280
+#: widgets/header-title.php:305 widgets/navigation-over-image.php:332
+#: widgets/post-slider.php:321 widgets/section-subscriptions.php:302
+msgid "Header elementor"
+msgstr ""
+
+#: widgets/header-search.php:58
+msgid "Header Search"
+msgstr ""
+
+#: widgets/header-slider-listing.php:73
+msgid "Header Slider Listing"
+msgstr ""
+
+#: widgets/header-static.php:58
+msgid "Header Static"
+msgstr ""
+
+#: widgets/header-title.php:58
+msgid "Header Title"
+msgstr ""
+
+#: widgets/header-search.php:296
+msgid "Headser elementor"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://listing-themes.com/"
+msgstr ""
+
+#: widgets/agents.php:152
+msgid "If dynamic agents enabled, sections Card 1 - 4 will be ignored"
+msgstr ""
+
+#: widgets/wide-search.php:300
+msgid "Invisible Heading"
+msgstr ""
+
+#: widgets/navigation-over-image.php:180
+msgid "Large search"
+msgstr ""
+
+#: widgets/latest-posts.php:58
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/single-apartment.php:123
+msgid "Listing"
+msgstr ""
+
+#: widgets/popular-listings.php:391
+msgid "Listing elementor"
+msgstr ""
+
+#: widgets/categories-listings.php:252
+msgid "Listings elementor"
+msgstr ""
+
+#: widgets/popular-listings.php:487
+msgid "Load More"
+msgstr ""
+
+#: widgets/agents.php:142
+msgid "Main Options"
+msgstr ""
+
+#: widgets/map-svg-area.php:846 widgets/map-svg.php:827
+msgid "Map didn`t create, please contact with administrator"
+msgstr ""
+
+#: widgets/map-full-width.php:129
+msgid "Map Full Width"
+msgstr ""
+
+#: widgets/map-svg.php:57
+msgid "Map Svg"
+msgstr ""
+
+#: widgets/map-svg-area.php:58
+msgid "Map Svg Area"
+msgstr ""
+
+#: widgets/popular-listings.php:212
+msgid "Max views"
+msgstr ""
+
+#: widgets/navigation-over-image.php:179
+msgid "Mini search"
+msgstr ""
+
+#: widgets/map-svg-area.php:736 widgets/map-svg-area.php:745
+#: widgets/map-svg.php:731 widgets/map-svg.php:740
+msgid "more"
+msgstr ""
+
+#: widgets/clients-say.php:240 widgets/contact-section.php:248
+#: widgets/header-search.php:212 widgets/header-slider-listing.php:278
+#: widgets/map-full-width.php:390 widgets/map-svg-area.php:887
+#: widgets/map-svg.php:868 widgets/navigation-over-image.php:254
+#: widgets/partners-agencies.php:269 widgets/post-slider.php:254
+#: widgets/wide-search.php:221
+msgid "Multiple instance not allowed for: "
+msgstr ""
+
+#: widgets/top-navigation-white.php:269
+msgid "Nav elementor"
+msgstr ""
+
+#: widgets/navigation-over-image.php:73
+msgid "Navigation Over Image"
+msgstr ""
+
+#: widgets/about-features.php:236 widgets/agents.php:234
+#: widgets/blog-grid.php:152 widgets/carousel-purposes.php:239
+#: widgets/clients-say.php:176 widgets/contact-featured.php:240
+#: widgets/contact-section.php:167 widgets/header-search.php:150
+#: widgets/header-slider-listing.php:192 widgets/header-static.php:150
+#: widgets/header-title.php:168 widgets/latest-posts.php:155
+#: widgets/map-full-width.php:247 widgets/map-svg-area.php:163
+#: widgets/map-svg.php:162 widgets/navigation-over-image.php:165
+#: widgets/partners-agencies.php:191 widgets/placeholder-footer.php:148
+#: widgets/popular-cities.php:149 widgets/popular-listings.php:152
+#: widgets/post-slider.php:168 widgets/pricing-packages.php:183
+#: widgets/result-listings.php:146 widgets/section-subscriptions.php:173
+#: widgets/services-you-need.php:242 widgets/single-apartment.php:176
+#: widgets/slogan.php:155 widgets/top-navigation-white.php:153
+#: widgets/video-feature.php:169 widgets/wide-search.php:144
+msgid "No"
+msgstr ""
+
+#: widgets/agents.php:454 widgets/popular-cities.php:322
+#: widgets/popular-cities.php:502 widgets/popular-listings.php:410
+#: widgets/single-apartment.php:332
+msgid "Not available"
+msgstr ""
+
+#: widgets/agents.php:287
+msgid "Not selected"
+msgstr ""
+
+#: widgets/navigation-over-image.php:378 widgets/navigation-over-image.php:389
+#: widgets/top-navigation-white.php:315
+msgid "or"
+msgstr ""
+
+#: widgets/partners-agencies.php:96
+msgid "Partners Agencies"
+msgstr ""
+
+#: widgets/partners-agencies.php:335
+msgid "Partners elementor"
+msgstr ""
+
+#: widgets/contact-section.php:275
+msgid "Phone:"
+msgstr ""
+
+#: widgets/placeholder-footer.php:56
+msgid "Placeholder Footer"
+msgstr ""
+
+#: widgets/contact-section.php:296
+msgid "Please populate all fields"
+msgstr ""
+
+#: widgets/popular-cities.php:57
+msgid "Popular Cities"
+msgstr ""
+
+#: widgets/popular-listings.php:60
+msgid "Popular Listings"
+msgstr ""
+
+#: widgets/contact-section.php:362 widgets/contact-section.php:367
+msgid "Populate Missing Fields"
+msgstr ""
+
+#: widgets/latest-posts.php:266
+msgid "Post elementor"
+msgstr ""
+
+#: widgets/post-slider.php:70
+msgid "Post Slider"
+msgstr ""
+
+#: widgets/pricing-packages.php:317
+msgid "Pricing elementor"
+msgstr ""
+
+#: widgets/pricing-packages.php:88
+msgid "Pricing Packages"
+msgstr ""
+
+#: widgets/header-slider-listing.php:405 widgets/latest-posts.php:328
+msgid "Read More"
+msgstr ""
+
+#: widgets/navigation-over-image.php:380 widgets/navigation-over-image.php:389
+#: widgets/top-navigation-white.php:317
+msgid "Register"
+msgstr ""
+
+#: widgets/result-listings.php:54
+msgid "Result Listings"
+msgstr ""
+
+#: widgets/result-listings.php:268
+msgid "Results elementor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandi Winter"
+msgstr ""
+
+#: widgets/header-search.php:374 widgets/navigation-over-image.php:498
+#: widgets/navigation-over-image.php:587 widgets/wide-search.php:373
+msgid "Search"
+msgstr ""
+
+#: widgets/section-subscriptions.php:75
+msgid "Section Subscriptions"
+msgstr ""
+
+#: widgets/contact-section.php:394
+msgid "Send Message"
+msgstr ""
+
+#: widgets/contact-section.php:272
+msgid "Sender website:"
+msgstr ""
+
+#: widgets/about-features.php:367 widgets/carousel-purposes.php:366
+#: widgets/contact-featured.php:402 widgets/services-you-need.php:373
+msgid "Serices elementor"
+msgstr ""
+
+#: widgets/services-you-need.php:145
+msgid "Services You Need"
+msgstr ""
+
+#: widgets/map-svg-area.php:739 widgets/map-svg.php:734
+msgid "short"
+msgstr ""
+
+#: widgets/popular-cities.php:330
+msgid "Should be %4"
+msgstr ""
+
+#: widgets/navigation-over-image.php:376 widgets/top-navigation-white.php:313
+msgid "Sign in"
+msgstr ""
+
+#: widgets/navigation-over-image.php:389 widgets/top-navigation-white.php:326
+msgid "Sign out"
+msgstr ""
+
+#: widgets/single-apartment.php:56
+msgid "Single Apartment"
+msgstr ""
+
+#: widgets/slogan.php:63
+msgid "Slogan"
+msgstr ""
+
+#: widgets/slogan.php:285
+msgid "Slogan elementor"
+msgstr ""
+
+#: widgets/agents.php:248 widgets/header-title.php:182
+#: widgets/partners-agencies.php:205 widgets/popular-cities.php:163
+#: widgets/pricing-packages.php:197 widgets/video-feature.php:183
+msgid "Standard grid"
+msgstr ""
+
+#: widgets/navigation-over-image.php:402 widgets/top-navigation-white.php:339
+msgid ""
+"Submit feature, Possible only if installed  Visual Listings - Agency "
+"Directory"
+msgstr ""
+
+#: widgets/navigation-over-image.php:399 widgets/top-navigation-white.php:336
+msgid "Submit Listing"
+msgstr ""
+
+#: widgets/map-svg-area.php:752 widgets/map-svg.php:747
+msgid "Svg elementor"
+msgstr ""
+
+#: widgets/contact-section.php:365
+msgid "Thank you!. Your message is successfully sent..."
+msgstr ""
+
+#: widgets/contact-section.php:286
+msgid "Thanks on your message!"
+msgstr ""
+
+#: widgets/top-bar.php:73
+msgid "Top Bar"
+msgstr ""
+
+#: widgets/top-bar.php:264
+msgid "Top bar elementor"
+msgstr ""
+
+#: widgets/top-navigation-white.php:61
+msgid "Top Navigation White"
+msgstr ""
+
+#: widgets/agents.php:171 widgets/map-svg-area.php:118 widgets/map-svg.php:117
+msgid "True"
+msgstr ""
+
+#: elementor-selio.php:59
+msgid "Update Elementor Now"
+msgstr ""
+
+#: widgets/video-feature.php:315
+msgid "Video elementor"
+msgstr ""
+
+#: widgets/video-feature.php:59
+msgid "Video Feature"
+msgstr ""
+
+#: widgets/blog-grid.php:309 widgets/latest-posts.php:313
+msgid "View Post"
+msgstr ""
+
+#: widgets/agents.php:440 widgets/agents.php:472
+msgid "View profile"
+msgstr ""
+
+#: widgets/map-full-width.php:462 widgets/map-full-width.php:464
+msgid "Visible Heading"
+msgstr ""
+
+#: widgets/contact-section.php:269
+msgid "Web contact message from:"
+msgstr ""
+
+#: widgets/wide-search.php:52
+msgid "Wide Search"
+msgstr ""
+
+#: widgets/wide-search.php:298
+msgid "Wide search elementor"
+msgstr ""
+
+#: elementor-selio.php:107
+msgid "Winter Themes"
+msgstr ""
+
+#: widgets/about-features.php:235 widgets/agents.php:233
+#: widgets/blog-grid.php:151 widgets/carousel-purposes.php:238
+#: widgets/clients-say.php:175 widgets/contact-featured.php:239
+#: widgets/contact-section.php:166 widgets/header-search.php:149
+#: widgets/header-slider-listing.php:191 widgets/header-static.php:149
+#: widgets/header-title.php:167 widgets/latest-posts.php:154
+#: widgets/map-full-width.php:246 widgets/map-svg-area.php:162
+#: widgets/map-svg.php:161 widgets/navigation-over-image.php:164
+#: widgets/partners-agencies.php:190 widgets/placeholder-footer.php:147
+#: widgets/popular-cities.php:148 widgets/popular-listings.php:151
+#: widgets/post-slider.php:167 widgets/pricing-packages.php:182
+#: widgets/result-listings.php:145 widgets/section-subscriptions.php:172
+#: widgets/services-you-need.php:241 widgets/single-apartment.php:175
+#: widgets/slogan.php:154 widgets/top-navigation-white.php:152
+#: widgets/video-feature.php:168 widgets/wide-search.php:143
+msgid "Yes"
+msgstr ""
+
+#: widgets/contact-section.php:380
+msgid "Your Email"
+msgstr ""
+
+#: widgets/contact-section.php:390
+msgid "Your Message"
+msgstr ""
+
+#: widgets/contact-section.php:375
+msgid "Your Name"
+msgstr ""
+
+#: widgets/contact-section.php:385
+msgid "Your Phone"
+msgstr ""

@@ -1,0 +1,206 @@
+{
+    "version": "0.4",
+    "title": "list-layout-with-sidebar",
+    "type": "page",
+    "content": [{
+            "id": "4b32",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "373d",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7094",
+                            "settings": {
+                                "item_1_phone_number": "(647) 346-0855",
+                                "item_1_link": "#",
+                                "item_2_address": "CF Fairview Mall, Toronto, ON",
+                                "item_2_link": "#",
+                                "item_3_social_1_icon": "fa-facebook",
+                                "item_3_link": "#",
+                                "item_4_social_2_icon": "fa-twitter",
+                                "item_4_link": "#",
+                                "item_5_social_3_icon": "fa-instagram",
+                                "item_5_link": "#",
+                                "item_6_social_4_icon": "fa-linkedin",
+                                "item_6_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-bar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "a39",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "200",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7083",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "3e2c",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "11df",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "687e",
+                            "settings": {
+                                "item_1_page_title": "List Layout",
+                                "item_2_enable_image_version": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "header-title",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "4771",
+            "settings": {
+                "gap": "wide",
+                "structure": "22",
+                "stretch_section": "section-stretched",
+                "gap": "narrow",
+                "css_classes": "blog-wrapper",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [{
+                    "id": "e8a",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 66.667,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [{
+                            "id": "10f5",
+                            "settings": {
+                                "item_1_default_view": "grid",
+                                "item_2_default_view": "grid"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "result-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }, {
+                    "id": "1118",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 33.33,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [{
+                            "id": "6cfb",
+                            "settings": {
+                                "sidebar": "sidebar-results-1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "sidebar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "26c4",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "5dd7",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "956",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "73",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "64e2",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "69ad",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

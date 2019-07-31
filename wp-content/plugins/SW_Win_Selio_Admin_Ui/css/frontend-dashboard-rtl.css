@@ -1,0 +1,49 @@
+#wpadminbar .ab-top-menu>li#wp-admin-bar-site-name {
+    margin-right: 0;
+    margin-left: 25px;
+}
+
+#wpcontent, #wpfooter {
+    margin-left: 0;
+    margin-right: 220px;
+}
+
+#adminmenu .wp-submenu {
+    right: 220px;
+}
+
+#adminmenu .awaiting-mod, #adminmenu .update-plugins {
+    float: initial;
+}
+
+#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar>a img {
+    margin-right: 15px;
+}
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap, #adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu, .no-js li.wp-has-current-submenu:hover .wp-submenu {
+    border-right: 0;
+    border-left: 1px solid #e4e4e4;
+}
+
+#wpadminbar .ab-top-menu>li#wp-admin-bar-site-name {
+    min-width: 220px;
+}
+
+@media only screen and (max-width: 960px){
+    #wpadminbar .ab-top-menu>li#wp-admin-bar-site-name {
+        min-width: initial;
+    }
+}
+
+
+@media (min-width: 782px){
+
+}
+
+@media (min-width: 961px){
+
+}
+
+@media (max-width: 781px){
+
+}

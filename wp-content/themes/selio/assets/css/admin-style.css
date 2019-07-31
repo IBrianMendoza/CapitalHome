@@ -1,0 +1,11 @@
+.theme-install p.submit {
+    display: inline-block;
+}
+
+.theme-install .loading {
+    width: 16px;
+    position: relative;
+    top: 5px;
+    margin-left: 5px;
+}
+

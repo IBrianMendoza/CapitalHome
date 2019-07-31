@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-14 11:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: report_form.php:7 report_form.php:9
+msgid "Full name"
+msgstr ""
+
+#: report_form.php:13 report_form.php:15
+msgid "Phone"
+msgstr ""
+
+#: report_form.php:19 report_form.php:21
+msgid "Email"
+msgstr ""
+
+#: report_form.php:25
+msgid "Message"
+msgstr ""
+
+#: report_form.php:33
+msgid "I allow admin to contact me"
+msgstr ""
+
+#: report_form.php:40
+msgid "Submit"
+msgstr ""
+
+#: sw_win_classified_report.php:58
+msgid "Please update Classified plugin to use this \"Report listing\" addon"
+msgstr ""
+
+#. Name of the plugin
+msgid "Winter Classified Report"
+msgstr ""
+
+#. Description of the plugin
+msgid "Addon to report listing on classified portal"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/sanljiljan"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandi Winter"
+msgstr ""

@@ -1,0 +1,285 @@
+{
+    "version": "0.4",
+    "title": "slider-header",
+    "type": "page",
+    "content": [{
+            "id": "791c",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "228f",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "dee",
+                            "settings": {
+                                "item_1_phone_number": "(647) 346-0855",
+                                "item_1_link": "#",
+                                "item_2_address": "CF Fairview Mall, Toronto, ON",
+                                "item_2_link": "#",
+                                "item_3_social_1_icon": "fa-facebook",
+                                "item_3_link": "#",
+                                "item_4_social_2_icon": "fa-twitter",
+                                "item_4_link": "#",
+                                "item_5_social_3_icon": "fa-instagram",
+                                "item_5_link": "#",
+                                "item_6_social_4_icon": "fa-linkedin",
+                                "item_6_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-bar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "58ab",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "1afa",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "4925",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "6cc6",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "52a1",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "b08",
+                            "settings": {
+                                "item_1_listing_id": "#",
+                                "item_2_listing_id": "#",
+                                "item_3_listing_id": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "header-slider-listing",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "77dd",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4fb4",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "5487",
+                            "settings": {
+                                "item_1_mini_title": "Trusted by the Best",
+                                "item_1_big_title": "Real Estate Partners",
+                                "item_2_par_link": "#",
+                                "item_3_par_link": "#",
+                                "item_4_par_link": "#",
+                                "item_5_par_link": "#",
+                                "item_6_par_link": "#",
+                                "item_7_par_link": "#",
+                                "item_8_par_link": "#",
+                                "item_9_par_link": "#",
+                                "item_10_par_link": "#",
+                                "item_11_par_link": "#",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "105",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "partners-agencies",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "3320",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3223",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "f52",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "single-apartment",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "4d7f",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4e9e",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "34d9",
+                            "settings": {
+                                "item_1_mini_title": "Discover",
+                                "item_1_big_title": "Popular Listing",
+                                "item_2_results_limit": "6",
+                                "item_2_enable_more_button": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "36aa",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4595",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "614c",
+                            "settings": {
+                                "item_1_mini_title": "Clients Say",
+                                "item_1_big_title": "Testimonials",
+                                "item_3_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_3_client_name": "Kritsofer Nolan",
+                                "item_3_client_position": "Property Owner",
+                                "item_4_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_4_client_name": "Kritsofer Nolan",
+                                "item_4_client_position": "Property Owner",
+                                "item_5_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_5_client_name": "Kritsofer Nolan",
+                                "item_5_client_position": "Property Owner",
+                                "item_6_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_6_client_name": "Kritsofer Nolan",
+                                "item_6_client_position": "Property Owner"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "clients-say",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2611",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4638",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "429b",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "de4",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "6d77",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "1376",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

@@ -1,0 +1,204 @@
+{
+    "version": "0.4",
+    "title": "list layout with map",
+    "type": "page",
+    "content": [{
+            "id": "14f0fe38",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "45f3d63d",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "62743c8e",
+                            "settings": {
+                                "item_1_phone_number": "(647) 346-0855",
+                                "item_1_link": "#",
+                                "item_2_address": "CF Fairview Mall, Toronto, ON",
+                                "item_2_link": "#",
+                                "item_3_social_1_icon": "fa-facebook",
+                                "item_3_link": "#",
+                                "item_4_social_2_icon": "fa-twitter",
+                                "item_4_link": "#",
+                                "item_5_social_3_icon": "fa-instagram",
+                                "item_5_link": "#",
+                                "item_6_social_4_icon": "fa-linkedin",
+                                "item_6_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-bar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "43033617",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "14b2b501",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6f30210b",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2ef83459",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "13315efb",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "4541819c",
+                            "settings": {
+                                "item_2_location_lat": "40.741895",
+                                "item_2_location_lon": "-73.989308",
+                                "item_2_location_text": "212 5th Ave, New York"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "map-full-width",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2378bc47",
+            "settings": {
+                "gap": "wide",
+                "structure": "22",
+                "stretch_section": "section-stretched",
+                "gap": "narrow",
+                "css_classes": "blog-wrapper",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [{
+                    "id": "558dd104",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 66.667,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [{
+                            "id": "12dcbec8",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "result-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }, {
+                    "id": "5087104c",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 33.33,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [{
+                            "id": "7663c7e8",
+                            "settings": {
+                                "sidebar": "sidebar-results-1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "sidebar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "226b608f",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "7fa40d30",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "56dbffbe",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "12675100",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "7100f1",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6e9ffd44",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

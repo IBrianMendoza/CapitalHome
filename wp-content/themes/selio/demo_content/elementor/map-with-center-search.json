@@ -1,0 +1,339 @@
+{
+    "version": "0.4",
+    "title": "map-with-center-search",
+    "type": "page",
+    "content": [{
+            "id": "7ec3",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2a72",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "b7d",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7bbe",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "6279",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "1340",
+                            "settings": {
+                                "item_1_map_zoom": "9",
+                                "item_2_location_lat": "40.741895",
+                                "item_2_location_lon": "-73.989308",
+                                "item_2_location_text": "212 5th Ave, New York"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "map-full-width",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2d35",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "236c",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "441f",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wide-search",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "a58",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "33b",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "15ca",
+                            "settings": {
+                                "item_1_mini_title": "Discover",
+                                "item_1_big_title": "Popular Listing",
+                                "item_2_results_limit": "3",
+                                "item_2_enable_section_separator": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "1817",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4496",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "67b1",
+                            "settings": {
+                                "item_1_mini_title": "Popular Cities",
+                                "item_1_big_title": "Find Perfect Place",
+                                "item_1_view": "flexbox",
+                                "item_1_limit": "4"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-cities",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "1422",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4ded",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7404",
+                            "settings": {
+                                "item_1_mini_title": "Perfect Price",
+                                "item_1_big_title": "Explore Our Pricing",
+                                "item_2_pac_title": "Basic",
+                                "item_2_pac_price": "Free",
+                                "item_2_pac_line_1": "One Property Included",
+                                "item_2_pac_line_2": "90 days expiration",
+                                "item_2_pac_line_3": "Rent and sell real estate",
+                                "item_2_pac_line_4": "Image Gallery",
+                                "item_2_pac_line_5": "30 Days Support",
+                                "item_2_pac_link": "#",
+                                "item_2_pac_button_text": "Select Plan",
+                                "item_3_pac_title": "Standard",
+                                "item_3_pac_price": "$25.50",
+                                "item_3_pac_line_1": "Five Property Included",
+                                "item_3_pac_line_2": "180 days expiration",
+                                "item_3_pac_line_3": "Rent and sell real estate",
+                                "item_3_pac_line_4": "Image Gallery",
+                                "item_3_pac_line_5": "90 Days Support",
+                                "item_3_pac_link": "#",
+                                "item_3_pac_button_text": "Select Plan",
+                                "item_4_pac_title": "Premium",
+                                "item_4_pac_price": "$99.00",
+                                "item_4_pac_line_1": "Unlimited Property Included",
+                                "item_4_pac_line_2": "280 days expiration",
+                                "item_4_pac_line_3": "Rent and sell real estate",
+                                "item_4_pac_line_4": "Image Gallery",
+                                "item_4_pac_line_5": "180 Days Support",
+                                "item_4_pac_link": "#",
+                                "item_4_pac_button_text": "Select Plan"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pricing-packages",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "5be9",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4c70",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "1eb3",
+                            "settings": {
+                                "item_1_mini_title": "Perfect Team",
+                                "item_1_big_title": "Meet Our Agents",
+                                "item_2_agent_name": "Tomas Wilkinson",
+                                "item_2_agent_position": "Douglas and Eleman Agency",
+                                "item_2_agent_phone": "+1 212-925-3797",
+                                "item_2_agent_link": "#",
+                                "item_2_agent_button_text": "View Profile",
+                                "item_3_agent_name": "Alexandra Pirlo",
+                                "item_3_agent_position": "Douglas and Eleman Agency",
+                                "item_3_agent_phone": "+1 212-925-3797",
+                                "item_3_agent_link": "#",
+                                "item_3_agent_button_text": "View Profile",
+                                "item_4_agent_name": "Amanda Gates",
+                                "item_4_agent_position": "Douglas and Eleman Agency",
+                                "item_4_agent_phone": "+1 212-925-3797",
+                                "item_4_agent_link": "#",
+                                "item_4_agent_button_text": "View Profile",
+                                "item_5_agent_name": "Tayler Gronos",
+                                "item_5_agent_position": "Douglas and Eleman Agency",
+                                "item_5_agent_phone": "+1 212-925-3797",
+                                "item_5_agent_link": "#",
+                                "item_5_agent_button_text": "View Profile"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "agents",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "3f9c",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "730f",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "506e",
+                            "settings": {
+                                "item_1_mini_title": "Trusted by the Best",
+                                "item_1_big_title": "Real Estate Partners",
+                                "item_2_par_image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "item_2_par_link": "#",
+                                "item_3_par_link": "#",
+                                "item_4_par_link": "#",
+                                "item_5_par_link": "#",
+                                "item_6_par_link": "#",
+                                "item_7_par_link": "#",
+                                "item_8_par_link": "#",
+                                "item_9_par_link": "#",
+                                "item_10_par_link": "#",
+                                "item_11_par_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "partners-agencies",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "312b",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "57a",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "4da5",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7f46",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "1f21",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "3988",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

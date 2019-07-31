@@ -1,0 +1,54 @@
+/* Visua form helpers classes */
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Side form
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[ 1. Side form ]
+*/
+
+/* .side-full - full width on side forms */
+
+.half-map-sec .form_field.side-full:not(.srch-btn) {
+    width: 100%;
+    padding: 0;
+}
+
+/* .hide_on_all - hide on all forms */
+
+.half-map-sec .form_field.side_hide:not(.srch-btn):not(.btn) {
+    display: none !important;
+}
+
+/* .hide_on_all - hide on all forms */
+
+.hide_on_all {
+    display: none !important;
+}
+
+/*------------------------------------------------------------------
+[ 1. Top banner form ]
+*/
+
+.form_sec .form_field:not(.srch-btn),
+.banner-search:not(.sw_search_form) .form_field:not(.srch-btn) {
+    display: none !important;
+}
+
+/* .banner_search_hide - hide on banner-search forms */
+
+.form_sec .form_field.banner_search_hide:not(.srch-btn),
+.banner-search .form_field.banner_search_hide:not(.srch-btn) {
+    display: none !important;
+}
+
+/* .banner_search_show - show on banner-search forms */
+
+.form_sec .form_field.banner_search_show:not(.srch-btn),
+.banner-search .form_field.banner_search_show:not(.srch-btn) {
+    display: block !important;
+}

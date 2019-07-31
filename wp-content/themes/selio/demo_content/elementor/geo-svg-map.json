@@ -1,0 +1,302 @@
+{
+    "version": "0.4",
+    "title": "geo-svg-map",
+    "type": "page",
+    "content": [{
+        "id": "9ab",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "6ffa",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "5225",
+                "settings": [],
+                "elements": [],
+                "isInner": false,
+                "widgetType": "top-navigation-white",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "11c6",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "6ba1",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "6808",
+                "settings": {
+                    "auto_search": "true"
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "map-svg",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "20dd",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "7cb4",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "1587",
+                "settings": [],
+                "elements": [],
+                "isInner": false,
+                "widgetType": "wide-search",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "3020",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "323",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "452",
+                "settings": {
+                    "item_1_mini_title": "Discover",
+                    "item_1_big_title": "Real Estate for Rent",
+                    "item_2_results_limit": "3",
+                    "item_2_enable_section_separator": "yes",
+                    "qr_string": "search_order=idlisting%20DESC&search_4=For%20Rent&search_is_featured=1"
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "popular-listings",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "2e7f",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "139e",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "6dd9",
+                "settings": {
+                    "item_1_mini_title": "Discover",
+                    "item_1_big_title": "Real Estate for Sale",
+                    "item_2_results_limit": "3",
+                    "qr_string": "search_order=idlisting%20DESC&search_4=For%20Sale&search_is_featured=1"
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "popular-listings",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "4baa",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "e95",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "2e4c",
+                "settings": {
+                    "item_1_slogan_title": "Discover the Best Properties",
+                    "item_1_slogan_link": "#",
+                    "item_1_header_slogan_color": "#070f43",
+                    "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                    "item_2_inspiring_buton_text": "Get Started Now",
+                    "item_2_inspiring_buton_link": "#",
+                    "item_2_inspiring_enable": "yes",
+                    "item_2_inspiring_background_image": {
+                        "url": "",
+                        "id": ""
+                    },
+                    "item_1_slogan_color": "#070f43"
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "slogan",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "7f11",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "6338",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "339b",
+                "settings": {
+                    "item_1_mini_title": "Popular Cities",
+                    "item_1_big_title": "Find Perfect Place",
+                    "item_1_view": "flexbox",
+                    "item_1_limit": "4"
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "popular-cities",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "7ae4",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "6e77",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "7876",
+                "settings": {
+                    "item_1_mini_title": "Explore Features",
+                    "item_1_big_title": "Service You Need",
+                    "item_2_service_title": "Perfect Tools",
+                    "item_2_service_link": "#",
+                    "item_2_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                    "item_3_service_title": "Search In Click",
+                    "item_3_service_link": "#",
+                    "item_3_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                    "item_4_service_title": "User Control",
+                    "item_4_service_link": "#",
+                    "item_4_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh."
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "services-you-need",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "7b13",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "2602",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "7b4d",
+                "settings": {
+                    "item_1_slogan_title": "Discover a home you'll love to stay",
+                    "item_1_slogan_link": "#",
+                    "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                    "item_2_inspiring_buton_text": "Get Started Now",
+                    "_margin": {
+                        "unit": "px",
+                        "top": "5",
+                        "right": "0",
+                        "bottom": "0",
+                        "left": "0",
+                        "isLinked": false
+                    }
+                },
+                "elements": [],
+                "isInner": false,
+                "widgetType": "slogan",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }, {
+        "id": "204e",
+        "settings": {
+            "layout": "full_width",
+            "gap": "no"
+        },
+        "elements": [{
+            "id": "7f49",
+            "settings": {
+                "_column_size": 100
+            },
+            "elements": [{
+                "id": "6150",
+                "settings": [],
+                "elements": [],
+                "isInner": false,
+                "widgetType": "placeholder-footer",
+                "elType": "widget"
+            }],
+            "isInner": false,
+            "elType": "column"
+        }],
+        "isInner": false,
+        "elType": "section"
+    }]
+}

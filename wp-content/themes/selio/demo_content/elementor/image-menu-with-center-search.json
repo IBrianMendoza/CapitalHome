@@ -1,0 +1,250 @@
+{
+    "version": "0.4",
+    "title": "image-menu-with-center-search",
+    "type": "page",
+    "content": [{
+            "id": "3b5b",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "1a6a",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6055",
+                            "settings": {
+                                "item_7_slogan_title": "Discover best properties in one place"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "navigation-over-image",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7336",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2cd1",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "2ff8",
+                            "settings": {
+                                "item_1_mini_title": "Discover",
+                                "item_1_big_title": "Popular Listing",
+                                "item_2_results_limit": "6",
+                                "item_2_enable_section_separator": "yes",
+                                "item_2_enable_more_button": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "450d",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "53a4",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "3237",
+                            "settings": {
+                                "item_1_custom_description_text": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulpu tate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincid-unt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "single-apartment",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "610",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3ad3",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "cc2",
+                            "settings": {
+                                "item_1_mini_title": "Explore Features",
+                                "item_1_big_title": "Service You Need",
+                                "item_2_service_icon": "la la-home",
+                                "item_2_service_title": "Perfect Tools",
+                                "item_2_service_link": "#",
+                                "item_2_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_3_service_icon": "icon-cursor",
+                                "item_3_service_title": "Search In Click",
+                                "item_3_service_link": "#",
+                                "item_3_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_4_service_icon": "icon-lock",
+                                "item_4_service_title": "User Control",
+                                "item_4_service_link": "#",
+                                "item_4_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "services-you-need",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "312f",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "330e",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "2509",
+                            "settings": {
+                                "item_1_mini_title": "Our Blog",
+                                "item_1_big_title": "Recent Posts",
+                                "item_2_posts_limit": "3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "latest-posts",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "721a",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "8c5",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "733c",
+                            "settings": {
+                                "item_1_mini_title": "Clients Say",
+                                "item_1_big_title": "Testimonials",
+                                "item_3_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_3_client_name": "Kritsofer Nolan",
+                                "item_3_client_position": "Property Owner",
+                                "item_4_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_4_client_name": "Kritsofer Nolan",
+                                "item_4_client_position": "Property Owner",
+                                "item_5_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_5_client_name": "Kritsofer Nolan",
+                                "item_5_client_position": "Property Owner",
+                                "item_6_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_6_client_name": "Kritsofer Nolan",
+                                "item_6_client_position": "Property Owner"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "clients-say",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "6c41",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "728",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "314b",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "6dd4",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "1727",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "15e6",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

@@ -1,0 +1,242 @@
+{
+    "version": "0.4",
+    "title": "image-header-with-description",
+    "type": "page",
+    "content": [{
+            "id": "5814",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4267",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6626",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "1e03",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3eb2",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "48bd",
+                            "settings": {
+                                "item_1_header_title": "Discover the Best Properties",
+                                "item_1_header_text": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_1_header_button_text": "Get Started Now",
+                                "item_1_header_button_link": "#",
+                                "item_1_header_slogan_color": "#070f43",
+                                "item_1_header_background_image": {
+                                    "url": "",
+                                    "id": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "header-static",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "13fe",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "33b9",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6180",
+                            "settings": {
+                                "item_1_mini_title": "Discover",
+                                "item_1_big_title": "Popular Listing",
+                                "item_2_results_limit": "3",
+                                "item_2_enable_section_separator": "yes"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "5275",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "15ac",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "175f",
+                            "settings": {
+                                "item_1_mini_title": "Popular Cities",
+                                "item_1_big_title": "Find Perfect Place",
+                                "item_1_view": "flexbox",
+                                "item_1_limit": "4"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-cities",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "6098",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "4a7b",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "720a",
+                            "settings": {
+                                "item_1_mini_title": "Explore Features",
+                                "item_1_big_title": "Service You Need",
+                                "item_2_service_icon": "la la-home",
+                                "item_2_service_title": "Perfect Tools",
+                                "item_2_service_link": "#",
+                                "item_2_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_3_service_icon": "icon-cursor",
+                                "item_3_service_title": "Search In Click",
+                                "item_3_service_link": "#",
+                                "item_3_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_4_service_icon": "icon-lock",
+                                "item_4_service_title": "User Control",
+                                "item_4_service_link": "#",
+                                "item_4_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "services-you-need",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "1357",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "24d6",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "20f1",
+                            "settings": {
+                                "item_1_mini_title": "Our Blog",
+                                "item_1_big_title": "Recent Posts",
+                                "item_2_posts_limit": "3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "latest-posts",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "3862",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "5b2d",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "6e44",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7d29",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2ab0",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "df3",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

@@ -1,0 +1,371 @@
+{
+    "version": "0.4",
+    "title": "white-menu-with-center-search",
+    "type": "page",
+    "content": [{
+            "id": "edb",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "bea",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "27d5",
+                            "settings": {
+                                "item_0_phone_number": "(647) 346-0855",
+                                "item_1_address": "CF Fairview Mall, Toronto, ON",
+                                "item_2_social_1_icon": "fa fa-facebook",
+                                "item_2_link": "#",
+                                "item_3_social_2_icon": "fa fa-twitter",
+                                "item_3_link": "#",
+                                "item_4_social_3_icon": "fa fa-instagram",
+                                "item_4_link": "#",
+                                "item_5_social_4_icon": "fa fa-linkedin",
+                                "item_5_link": "#",
+                                "item_1_phone_number": "(647) 346-0855",
+                                "item_1_link": "#",
+                                "item_2_address": "CF Fairview Mall, Toronto, ON",
+                                "item_3_social_1_icon": "fa-facebook",
+                                "item_4_social_2_icon": "fa-twitter",
+                                "item_5_social_3_icon": "fa-instagram",
+                                "item_6_social_4_icon": "fa-linkedin",
+                                "item_6_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-bar",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7cb6",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "6c51",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "3d78",
+                            "settings": {
+                                "item_1_phone_number": "(647) 346-0855",
+                                "item_1_link": "#",
+                                "item_2_address": "CF Fairview Mall, Toronto, ON",
+                                "item_2_link": "#",
+                                "item_3_social_1_icon": "fa-facebook",
+                                "item_3_link": "#",
+                                "item_4_social_2_icon": "fa-twitter",
+                                "item_4_link": "#",
+                                "item_5_social_3_icon": "fa-instagram",
+                                "item_5_link": "#",
+                                "item_6_social_4_icon": "fa-linkedin",
+                                "item_6_link": "#",
+                                "item_1_logo_image": {
+                                    "url": "",
+                                    "id": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "7c8d",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3924",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "3db7",
+                            "settings": {
+                                "item_3_slogan_title": "Discover best properties in one place"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "header-search",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "4390",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "7e53",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "2e42",
+                            "settings": {
+                                "item_1_main_title": "Homes around the world",
+                                "item_1_main_description": "Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. ",
+                                "item_1_button_text": "View for rent",
+                                "item_1_button_link": "#",
+                                "item_2_category_title": "Homes",
+                                "item_2_category_link": "#",
+                                "item_3_category_title": "Appartments",
+                                "item_3_category_link": "#",
+                                "item_4_category_title": "Garages",
+                                "item_4_category_link": "#"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "categories-presentation",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2caf",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "6c8e",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "5489",
+                            "settings": {
+                                "item_1_mini_title": "Discover",
+                                "item_1_big_title": "Popular Listing",
+                                "item_2_results_limit": "3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-listings",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "439a",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3045",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "8bc",
+                            "settings": {
+                                "item_1_mini_title": "Explore Features",
+                                "item_1_big_title": "Service You Need",
+                                "item_2_service_icon": "la la-home",
+                                "item_2_service_title": "Perfect Tools",
+                                "item_2_service_link": "#",
+                                "item_2_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_3_service_icon": "la la-hand-pointer-o",
+                                "item_3_service_title": "Search In Click",
+                                "item_3_service_link": "#",
+                                "item_3_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_4_service_icon": "la la-unlock",
+                                "item_4_service_title": "User Control",
+                                "item_4_service_link": "#",
+                                "item_4_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh.",
+                                "item_5_service_icon": "la la-star-o",
+                                "item_5_service_title": "5 Star Support",
+                                "item_5_service_link": "#",
+                                "item_5_service_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit conseat ipsum, nec sagittis sem nibh."
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "services-you-need",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "bc1",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "74a8",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "64cb",
+                            "settings": {
+                                "item_1_mini_title": "Popular Cities",
+                                "item_1_big_title": "Find Perfect Place"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "popular-cities",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "721ds",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "8c51",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7335c",
+                            "settings": {
+                                "item_1_mini_title": "Clients Say",
+                                "item_1_big_title": "Testimonials",
+                                "item_3_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_3_client_name": "Kritsofer Nolan",
+                                "item_3_client_position": "Property Owner",
+                                "item_4_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_4_client_name": "Kritsofer Nolan",
+                                "item_4_client_position": "Property Owner",
+                                "item_5_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_5_client_name": "Kritsofer Nolan",
+                                "item_5_client_position": "Property Owner",
+                                "item_6_client_message": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_6_client_name": "Kritsofer Nolan",
+                                "item_6_client_position": "Property Owner"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "clients-say",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        },{
+            "id": "3354",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2a7",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7f66",
+                            "settings": {
+                                "item_1_map_zoom": "9",
+                                "item_1_map_height_range": {"size":"600"},
+                                "item_2_location_lat": "40.741895",
+                                "item_2_location_lon": "-73.989308",
+                                "item_2_location_text": "212 5th Ave, New York"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "map-full-width",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "2243",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2bf2",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "22fd",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "153e",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "71f9",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "30c0",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}

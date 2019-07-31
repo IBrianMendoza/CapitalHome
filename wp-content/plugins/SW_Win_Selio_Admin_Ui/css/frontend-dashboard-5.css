@@ -1,0 +1,108 @@
+.edit-post-visual-editor .editor-block-list__block {
+    background: #fff;
+}
+
+@media (min-width: 782px){
+    #collapse-button .collapse-button-icon {
+        padding: 7px 0;
+    }
+    
+    .edit-post-header {
+        top: 96px;
+    }
+    
+    .edit-post-sidebar {
+        top: 150px;
+    }
+    
+    #collapse-button .collapse-button-label {
+        padding: 7px 7px 7px 37px;
+        color: #fff;
+        font-weight: 500;
+        font-size: 13px;
+        font-size: 15px;
+    }
+        
+    .edit-post-header,
+    .components-notice-list {
+        left: 245px;
+    }
+    
+    .auto-fold .components-notice-list,
+    .auto-fold .edit-post-header {
+        left: 36px;
+    }
+
+}
+
+@media (min-width: 961px){
+    .edit-post-sidebar {
+        top: 150px;
+    }
+    
+    .edit-post-header {
+        top: 93px;
+    }
+    
+    .edit-post-header,
+    .auto-fold .components-notice-list,
+    .auto-fold .edit-post-header {
+        left: 245px;
+    }
+    
+    .auto-fold.folded .components-notice-list,
+    .auto-fold.folded .edit-post-header {
+        left: 56px;
+    }
+    
+    .auto-fold.folded #adminmenu .wp-submenu-head, 
+    .auto-fold.folded #adminmenu a.menu-top {
+        padding: 7px 10px;
+        border-left: 2px solid transparent;
+    }
+    
+    .folded #adminmenuback, 
+    .folded #adminmenuwrap, 
+    .folded #adminmenu, 
+    .folded #adminmenu li.menu-top {
+    }
+
+}
+
+@media (max-width: 781px){
+    .components-notice-list,
+    .edit-post-header {
+        left: 0;
+    }
+    
+    .auto-fold .wp-responsive-open .components-notice-list,
+    .auto-fold .wp-responsive-open .edit-post-header {
+        left: 220px;
+    }
+    
+    .auto-fold #adminmenuback, 
+    .auto-fold #adminmenuwrap,
+    .auto-fold #adminmenu, 
+    .auto-fold #adminmenu li.menu-top {
+        width: 220px;
+    }
+    
+    #wpadminbar #wp-admin-bar-site-name > a.ab-item {
+        padding: 0;
+    }
+    
+    #wpadminbar #wp-admin-bar-site-name > .ab-item:before {
+        top: 7px;
+    }
+    
+    #wpadminbar .ab-top-menu>li#wp-admin-bar-site-name {
+        background: transparent;
+        margin-right: 0;
+    }
+    
+    .auto-fold #wpcontent, 
+    .auto-fold #wpfooter {
+        margin-left: 0;
+    }
+
+}

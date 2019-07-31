@@ -1,0 +1,197 @@
+{
+    "version": "0.4",
+    "title": "contact",
+    "type": "page",
+    "content": [{
+            "id": "378a",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "3df5",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "7f2c",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "top-navigation-white",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4471",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "6218",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "61fb",
+                            "settings": {
+                                "item_1_enable_defined_location": "yes",
+                                "item_1_map_zoom": "9",
+                                "item_2_location_lat": "40.741895",
+                                "item_2_location_lon": "-73.989308",
+                                "item_2_location_text": "212 5th Ave, New York"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "map-full-width",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "44711",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "62318",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "86",
+                            "right": "0",
+                            "bottom": "15",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [{
+                            "id": "61f4b",
+                            "settings": {
+                                "item_1_elementor_custom_padding_enable": "yes",
+                                "item_1_zebra_enable": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "contact-featured",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7c4",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "22d7",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [{
+                            "id": "4256",
+                            "settings": {
+                                "item_1_form_title": "Get in Touch",
+                                "item_1_form_text": "",
+                                "item_1_elementor_custom_padding_enable": "",
+                                "item_1_zebra_enable": "",
+                                "item_2_contact_title": "",
+                                "item_2_contact_address": "",
+                                "item_2_contact_tel": "",
+                                "item_2_contact_email": "",
+                                "item_2_contact_description": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elitco nsequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accum sanpsum velit. Nam nec tellus a odio tinci.",
+                                "item_3_facebook_link": "",
+                                "item_3_twitter_link": "",
+                                "item_3_instagram_link": "",
+                                "item_3_linkedin_link": ""
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "contact-section",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "1573",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "2de2",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "36ad",
+                            "settings": {
+                                "item_1_slogan_title": "Discover a home you'll love to stay",
+                                "item_1_slogan_link": "#",
+                                "item_2_inspiring_message": "Aenean sollicitudin, lorem quis bibendum aucto elit consequat ipsumas nec sagittis sem nibh id elit. Duis sed odio sit amet nibhulpu tate cursus a sit amet mauris. Morbi accumsan ipsum torquent.",
+                                "item_2_inspiring_buton_text": "Get Started Now"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "slogan",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }, {
+            "id": "462e",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [{
+                    "id": "10a9",
+                    "settings": {
+                        "_column_size": 100
+                    },
+                    "elements": [{
+                            "id": "5c30",
+                            "settings": [],
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "placeholder-footer",
+                            "elType": "widget"
+                        }],
+                    "isInner": false,
+                    "elType": "column"
+                }],
+            "isInner": false,
+            "elType": "section"
+        }]
+}
