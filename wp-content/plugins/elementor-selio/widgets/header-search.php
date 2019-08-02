@@ -371,7 +371,7 @@ class Header_Search extends Widget_Base {
 				<div class="form_field srch-btn">
 					<button id="search_header_button" type="submit" class="btn btn-outline-primary ">
 						<i class="la la-search"></i>
-						<span> <?php esc_html_e('Search', 'selio-blocks');?></span>
+						<span> <?php esc_html_e('Buscar', 'selio-blocks');?></span>
                                                 <i class="fa fa-spinner fa-spin fa-ajax-indicator" style="display: none;"></i>
 					</button>
 				</div>

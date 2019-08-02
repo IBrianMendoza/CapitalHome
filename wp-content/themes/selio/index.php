@@ -116,7 +116,7 @@ get_header();
                                 if (get_theme_mod('made_by') != "") {
                                     esc_viewe(get_theme_mod('made_by'));
                                 } else {
-                                    echo esc_html('Selio theme made in EU. All Rights Reserved.','selio');
+                                    echo esc_html('CapitalHome. Todos los derechos Reservados.','selio');
                                 }
                                 ?></p>
                             </div>

@@ -310,11 +310,11 @@ class Top_Navigation_White extends Widget_Base {
                                                                             <i class="la la-sign-in"></i>
                                                                             <span>
                                                                                 <a href="<?php echo esc_url( selio_login_page() ); ?>" class=" <?php if (!is_user_logged_in()): ?> login_popup_enabled <?php endif;?>">
-                                                                                    <b class="signin-op"><?php echo esc_html__('Sign in','selio-blocks');?></b> 
+                                                                                    <b class="signin-op"><?php echo esc_html__('Ingresar','selio-blocks');?></b> 
                                                                                 </a>
                                                                                 <?php echo esc_html__('or','selio-blocks');?> 
                                                                                 <a href="<?php echo esc_url( selio_login_page() ); ?>#sw_register" class="">
-                                                                                    <b class="reg-op"><?php echo esc_html__('Register','selio-blocks');?></b>
+                                                                                    <b class="reg-op"><?php echo esc_html__('Registrarse','selio-blocks');?></b>
                                                                                 </a>
                                                                             </span>
                                                                     </span>
@@ -323,7 +323,7 @@ class Top_Navigation_White extends Widget_Base {
                                                             <li class="nav-item signin-btn">
                                                                     <a href="<?php echo wp_logout_url(); ?>" class="nav-link ">
                                                                             <i class="la la-sign-in"></i>
-                                                                            <span><b class="signin-op"><?php echo esc_html__('Sign out','selio-blocks');?></b></span>
+                                                                            <span><b class="signin-op"><?php echo esc_html__('Salir','selio-blocks');?></b></span>
                                                                     </a>
                                                             </li>
                                                             <?php endif; ?>
@@ -333,7 +333,7 @@ class Top_Navigation_White extends Widget_Base {
                                                             <?php if(function_exists('sw_settings')):?>
 								<a href="<?php echo esc_url(get_permalink(sw_settings('quick_submission'))); ?>" class="my-2 my-sm-0 nav-link sbmt-btn">
 									<i class="icon-plus"></i>
-									<span><?php echo esc_html__('Submit Listing','selio-blocks');?></span>
+									<span><?php echo esc_html__('Añadir listado','selio-blocks');?></span>
 								</a>
                                                             <?php else:?>
                                                             <div class="alert alert-info"><?php echo esc_html__('Submit feature, Possible only if installed  Visual Listings - Agency Directory','selio-blocks');?></div>
